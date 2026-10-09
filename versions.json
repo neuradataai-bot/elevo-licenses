@@ -1,11 +1,11 @@
 {
   "elevo": {
-    "version": "1.3.0",
+    "version": "1.4.1",
     "url": "https://elevo.click/#download",
     "date": "2026-10-09",
     "notes": {
-      "pt": "Chegou o elevo Business: velocidade máxima de envio e licença para uso comercial, ativado na nova aba Plano. O elevo agora avisa quando há uma versão nova. Termos atualizados para a versão 2.1.",
-      "en": "Introducing elevo Business: full sending speed and a license for commercial use, activated in the new Plan tab. elevo now tells you when a new version is out. Terms updated to version 2.1."
+      "pt": "1. Detecção inteligente: arquivos sem alterações não são processados novamente, reduzindo o consumo de recursos.\n\n2. Transferências incrementais: apenas as partes modificadas dos arquivos são transferidas, economizando tempo e largura de banda.\n\n3. Distribuição otimizada: computadores podem compartilhar dados diretamente entre si, acelerando transferências em ambientes com múltiplos dispositivos.\n\nEssas melhorias proporcionam maior velocidade, eficiência e estabilidade nas operações.",
+      "en": "1. Intelligent Detection: Unchanged files are not reprocessed, reducing resource consumption.\n\n2. Incremental Transfers: Only modified portions of files are transferred, saving time and bandwidth.\n\n3. Optimized Distribution: Computers can share data directly with each other, accelerating transfers across multiple devices.\n\nThese improvements deliver greater speed, efficiency, and stability."
     }
   }
 }
