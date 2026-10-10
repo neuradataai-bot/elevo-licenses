@@ -1,11 +1,11 @@
 {
   "elevo": {
-    "version": "1.5.2",
+    "version": "1.5.4",
     "url": "https://elevo.click/#download",
     "date": "2026-10-10",
     "notes": {
-      "pt": "- Atualize um envio sem trocar o código: quem já recebeu é avisado, no computador, no iPhone ou no iPad, e baixa só o que mudou. (elevo Business e Studio)\n- Pasta compartilhada nos dois sentidos: todos alimentam a mesma pasta, direto entre os computadores, agora com um botão próprio no topo do painel. (elevo Business e Studio)\n- Compartilhe o QR Code de um envio pelo WhatsApp, e-mail, Mensagens ou Notas, ou salve a imagem: está no menu … do envio.\n- Pedidos de arquivos que dizem o que querem: quantos arquivos, de que tipo e o tamanho mínimo das imagens, conferidos antes de enviar. (elevo Studio)",
-      "en": "- Update a send without changing its code: whoever already received it is told, on a computer, iPhone or iPad, and downloads only what changed. (elevo Business and Studio)\n- Folders shared both ways: everyone feeds the same folder, straight between the computers, now with a button of its own at the top of the panel. (elevo Business and Studio)\n- Share a send's QR code through WhatsApp, e-mail, Messages or Notes, or save the image: it is in the send's … menu.\n- File requests that say what they need: how many files, of which kind and the smallest image size, checked before sending. (elevo Studio)"
+      "pt": "- Atualize um envio sem trocar o código: quem já recebeu é avisado, no computador, no iPhone ou no iPad, e baixa só o que mudou. (elevo Business e Studio)\n- Pasta compartilhada nos dois sentidos: todos alimentam a mesma pasta, direto entre os computadores, agora com um botão próprio no topo do painel; parou de compartilhar uma pasta, renove e ela volta com o mesmo código. (elevo Business e Studio)\n- Compartilhe o QR Code de um envio pelo WhatsApp, e-mail, Mensagens ou Notas, ou salve a imagem: está no menu … do envio.\n- Pedidos de arquivos que dizem o que querem: quantos arquivos, de que tipo e o tamanho mínimo das imagens, conferidos antes de enviar. (elevo Studio)",
+      "en": "- Update a send without changing its code: whoever already received it is told, on a computer, iPhone or iPad, and downloads only what changed. (elevo Business and Studio)\n- Folders shared both ways: everyone feeds the same folder, straight between the computers, now with a button of its own at the top of the panel; stopped sharing a folder, renew it and it comes back with the same code. (elevo Business and Studio)\n- Share a send's QR code through WhatsApp, e-mail, Messages or Notes, or save the image: it is in the send's … menu.\n- File requests that say what they need: how many files, of which kind and the smallest image size, checked before sending. (elevo Studio)"
     }
   }
 }
