@@ -1,11 +1,11 @@
 {
   "elevo": {
-    "version": "1.4.1",
+    "version": "1.5.0",
     "url": "https://elevo.click/#download",
-    "date": "2026-10-09",
+    "date": "2026-10-10",
     "notes": {
-      "pt": "1. Detecção inteligente: arquivos sem alterações não são processados novamente, reduzindo o consumo de recursos.\n\n2. Transferências incrementais: apenas as partes modificadas dos arquivos são transferidas, economizando tempo e largura de banda.\n\n3. Distribuição otimizada: computadores podem compartilhar dados diretamente entre si, acelerando transferências em ambientes com múltiplos dispositivos.\n\nEssas melhorias proporcionam maior velocidade, eficiência e estabilidade nas operações.",
-      "en": "1. Intelligent Detection: Unchanged files are not reprocessed, reducing resource consumption.\n\n2. Incremental Transfers: Only modified portions of files are transferred, saving time and bandwidth.\n\n3. Optimized Distribution: Computers can share data directly with each other, accelerating transfers across multiple devices.\n\nThese improvements deliver greater speed, efficiency, and stability."
+      "pt": "- Atualize um envio sem trocar o código: quem já recebeu é avisado, no computador, no iPhone ou no iPad, e baixa só o que mudou. (elevo Business e Studio)\n- Pasta compartilhada nos dois sentidos: todos alimentam a mesma pasta, direto entre os computadores. Se duas pessoas mudam o mesmo arquivo, as duas versões ficam; o que alguém apaga vai para a lixeira dos outros. (elevo Business e Studio)\n- Pedidos de arquivos que dizem o que querem: quantos arquivos, de que tipo e o tamanho mínimo das imagens. O elevo confere antes de enviar e avisa o que não bate. (elevo Studio)\n- Novo no menu do elevo: “O que o elevo faz”, uma apresentação animada das funções principais.",
+      "en": "- Update a send without changing its code: whoever already received it is told, on a computer, iPhone or iPad, and downloads only what changed. (elevo Business and Studio)\n- Folders shared both ways: everyone feeds the same folder, straight between the computers. If two people change the same file, both versions are kept; what someone deletes goes to the others' bin. (elevo Business and Studio)\n- File requests that say what they need: how many files, of which kind and the smallest image size. elevo checks before sending and says what does not match. (elevo Studio)\n- New in the elevo menu: “What elevo does”, an animated tour of the main features."
     }
   }
 }
