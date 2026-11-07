@@ -176,5 +176,18 @@
     "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/pulp-1.0.0/PULP-1.0.0-Windows-Setup.exe",
     "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/pulp-1.0.0",
     "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/pulp-1.0.0"
+  },
+  "solid": {
+    "name": "Solid",
+    "version": "1.0.0",
+    "date": "2026-11-07",
+    "notes": {
+      "pt": "- Primeira versão pública: compressor de barramento VCA com estágio de válvula classe A.\n- Ratios 2, 4 e 10, ataques de 0,1 a 30 ms, liberações de 0,1 a 1,2 s e AUTO.\n- TUBE DRIVE, MIX paralelo, S/C HPF, ANALOG e oversampling até 4x.\n- VU de redução e válvula animados; 25 presets de fábrica.",
+      "en": "- First public release: VCA bus compressor with a class A tube stage.\n- Ratios of 2, 4 and 10, attacks from 0.1 to 30 ms, releases from 0.1 to 1.2 s and AUTO.\n- TUBE DRIVE, parallel MIX, S/C HPF, ANALOG and up to 4x oversampling.\n- Animated gain reduction VU and tube; 25 factory presets."
+    },
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/solid-1.0.0/Solid-1.0.0-Mac.pkg",
+    "win": "",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/solid-1.0.0",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/solid-1.0.0"
   }
 }
