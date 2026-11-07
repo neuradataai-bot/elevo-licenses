@@ -215,5 +215,18 @@
     "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/studiochorus-1.0.0/StudioChorus-1.0.0-Windows-Setup.exe",
     "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/studiochorus-1.0.0",
     "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/studiochorus-1.0.0"
+  },
+  "livre": {
+    "name": "Livre",
+    "version": "1.0.0",
+    "date": "2026-11-08",
+    "notes": {
+      "en": "Initial local neural speech noise cleanup release. AU/VST3/standalone; three-hour usage trial. See release notes for platform and restoration limitations.",
+      "pt": "Primeira versão de limpeza neural local de ruído em fala. AU/VST3/aplicativo; teste de três horas de uso. Limitações de plataformas e restauração descritas na release."
+    },
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/livre-1.0.0",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/livre-1.0.0",
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/livre-1.0.0/Livre-1.0.0-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/livre-1.0.0/Livre-1.0.0-Windows-Setup.exe"
   }
 }
