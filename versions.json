@@ -202,5 +202,18 @@
     "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/veltron-1.0.0/VELTRON-1.0.0-Windows-Setup.exe",
     "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/veltron-1.0.0",
     "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/veltron-1.0.0"
+  },
+  "studiochorus": {
+    "name": "Studio Chorus",
+    "version": "1.0.0",
+    "date": "2026-11-07",
+    "notes": {
+      "pt": "- Primeira versão pública: chorus para voz principal com três motores em paralelo.\n- DIMENSION: ensemble BBD de 1024 estágios com quatro botões combináveis.\n- SHIFT: micro afinação estéreo com os estilos I, II e III, Detune, Delay, Focus e Drive.\n- TRIAD: tri-chorus com Chorus, Vibrato, Chorale e Swirl, Sync e envelopes.\n- Width, Low Cut, Air e Duck só no efeito, latência zero e 26 presets.",
+      "en": "- First public release: lead-vocal chorus with three engines in parallel.\n- DIMENSION: 1024-stage BBD ensemble with four combinable buttons.\n- SHIFT: stereo micro-pitch with styles I, II and III, Detune, Delay, Focus and Drive.\n- TRIAD: tri-chorus with Chorus, Vibrato, Chorale and Swirl, Sync and envelopes.\n- Width, Low Cut, Air and Duck on the effect only, zero latency and 26 presets."
+    },
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/studiochorus-1.0.0/StudioChorus-1.0.0-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/studiochorus-1.0.0/StudioChorus-1.0.0-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/studiochorus-1.0.0",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/studiochorus-1.0.0"
   }
 }
