@@ -140,16 +140,16 @@
   },
   "e888": {
     "name": "888",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "date": "2026-11-07",
     "notes": {
-      "pt": "- Primeira versão pública: canal de console classe A modelado componente por componente.\n- Pré de microfone e de linha com transformador, até 80 dB de ganho, com LO Z, PAD e fase.\n- EQ indutivo de três bandas, corte de graves de 18 dB/oitava, fader de console e saída com transformador.\n- Medidor de LEDs IN e OUT, oversampling de 2x a 8x e 18 presets de fábrica.",
-      "en": "- First public release: a Class A console channel modeled component by component.\n- Transformer mic and line preamp with up to 80 dB of gain, LO Z, PAD and phase.\n- Three-band inductor EQ, an 18 dB/octave low cut, a console fader and a transformer output.\n- IN and OUT LED meter, 2x to 8x oversampling and 18 factory presets."
+      "pt": "- A janela abre mais baixa (60 % do tamanho original) e cabe na tela do DAW.\n- Projetos salvos com a janela grande reabrem limitados a 80 % da altura da tela.\n- Window Size de 45 a 100 % no menu da engrenagem.",
+      "en": "- The window opens shorter (60 % of the original size) and fits inside the DAW.\n- Projects saved with a large window reopen limited to 80 % of the screen height.\n- Window Size from 45 to 100 % in the gear menu."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/e888-1.0.0/888-1.0.0-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/e888-1.0.0/888-1.0.0-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/e888-1.0.0",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/e888-1.0.0"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/e888-1.0.1/888-1.0.1-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/e888-1.0.1/888-1.0.1-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/e888-1.0.1",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/e888-1.0.1"
   },
   "reliq": {
     "name": "RELIQ",
