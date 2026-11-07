@@ -150,5 +150,18 @@
     "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/e888-1.0.0/888-1.0.0-Windows-Setup.exe",
     "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/e888-1.0.0",
     "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/e888-1.0.0"
+  },
+  "reliq": {
+    "name": "RELIQ",
+    "version": "1.0.0",
+    "date": "2026-11-07",
+    "notes": {
+      "pt": "- Primeira versão pública: cor vintage e lo-fi num só aparelho.\n- Sete módulos: VINYL, TAPE HISS, WOBBLE (wow e flutter), DRIVE (seis saturações), DIGITAL, MAGNETIC (dropouts) e SPACE.\n- FLUX, MAGNITUDE, TONE e MASTER, com toca-discos, carretéis, VUs e olho mágico animados.\n- 32 presets de fábrica.",
+      "en": "- First public release: vintage color and lo-fi in one machine.\n- Seven modules: VINYL, TAPE HISS, WOBBLE (wow and flutter), DRIVE (six saturations), DIGITAL, MAGNETIC (dropouts) and SPACE.\n- FLUX, MAGNITUDE, TONE and MASTER, with an animated turntable, tape reels, VU meters and magic eye.\n- 32 factory presets."
+    },
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/reliq-1.0.0/RELIQ-1.0.0-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/reliq-1.0.0/RELIQ-1.0.0-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/reliq-1.0.0",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/reliq-1.0.0"
   }
 }
