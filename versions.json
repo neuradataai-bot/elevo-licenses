@@ -189,5 +189,18 @@
     "win": "",
     "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/solid-1.0.0",
     "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/solid-1.0.0"
+  },
+  "veltron": {
+    "name": "VELTRON",
+    "version": "1.0.0",
+    "date": "2026-11-07",
+    "notes": {
+      "pt": "- Primeira versão pública: suíte de masterização com nivelador óptico LUMEN, compressor Classe A VECTOR e transformadores NICKEL, IRON e STEEL.\n- PRISM: dinâmica de precisão com liberação dupla, joelho suave, expansão, de-esser e banda em fase linear.\n- CEILING: limitador Safe, Brickwall e True Peak 8x, com dither de 24, 20 e 16 bits.\n- Estéreo, dual e M/S, LUFS e true peak, A/B, chiado analógico dosável (desligado de fábrica) e 25 presets de masterização.",
+      "en": "- First public release: mastering suite with the LUMEN optical leveler, the VECTOR Class-A compressor and NICKEL, IRON and STEEL transformers.\n- PRISM: precision dynamics with dual release, soft knee, expansion, de-essing and a linear-phase band.\n- CEILING: Safe, Brickwall and 8x True Peak limiter, with 24, 20 and 16-bit dither.\n- Stereo, dual and M/S, LUFS and true peak, A/B, adjustable analog noise (off by default) and 25 mastering presets."
+    },
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/veltron-1.0.0/VELTRON-1.0.0-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/veltron-1.0.0/VELTRON-1.0.0-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/veltron-1.0.0",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/veltron-1.0.0"
   }
 }
