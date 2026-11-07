@@ -10,55 +10,55 @@
   },
   "atri8": {
     "name": "ATRI8",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "date": "2026-11-07",
     "notes": {
-      "pt": "- Primeira versão do ATRI8, channel strip para voz e instrumentos.\n- AU e VST3 no Mac (Apple Silicon e Intel), VST3 no Windows e o app ATRI8.\n- Instalador do Mac assinado e notarizado pela Apple.",
-      "en": "- First release of ATRI8, a channel strip for vocals and instruments.\n- AU and VST3 on Mac (Apple Silicon and Intel), VST3 on Windows, plus the ATRI8 app.\n- Mac installer signed and notarized by Apple."
+      "pt": "- O fabricante agora aparece como Amira Audio no menu de plug-ins da DAW (AU e VST3), junto com os outros plug-ins da marca.\n- Sessões, presets e licença continuam funcionando sem mudar nada.\n- Instalador do Mac assinado e notarizado pela Apple.",
+      "en": "- The manufacturer now shows as Amira Audio in your DAW's plug-in menu (AU and VST3), next to the other plug-ins of the brand.\n- Sessions, presets and your license keep working with no changes.\n- Mac installer signed and notarized by Apple."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/atri8-1.0.0/ATRI8-1.0.0-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/atri8-1.0.0/ATRI8-1.0.0-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/atri8-1.0.0",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/atri8-1.0.0"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/atri8-1.0.1/ATRI8-1.0.1-Mac.pkg",
+    "win": "",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/atri8-1.0.1",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/atri8-1.0.1"
   },
   "rayo": {
     "name": "RAYO II",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "date": "2026-11-07",
     "notes": {
-      "pt": "- Primeira versão do RAYO II, channel strip para voz.\n- AU e VST3 no Mac (Apple Silicon e Intel), VST3 no Windows e o app RAYO II.\n- Instalador do Mac assinado e notarizado pela Apple.",
-      "en": "- First release of RAYO II, a channel strip for vocals.\n- AU and VST3 on Mac (Apple Silicon and Intel), VST3 on Windows, plus the RAYO II app.\n- Mac installer signed and notarized by Apple."
+      "pt": "- O fabricante agora aparece como Amira Audio no menu de plug-ins da DAW (AU e VST3), junto com os outros plug-ins da marca.\n- Sessões, presets e licença continuam funcionando sem mudar nada.\n- Instalador do Mac assinado e notarizado pela Apple.",
+      "en": "- The manufacturer now shows as Amira Audio in your DAW's plug-in menu (AU and VST3), next to the other plug-ins of the brand.\n- Sessions, presets and your license keep working with no changes.\n- Mac installer signed and notarized by Apple."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/rayo-1.0.0/RAYO-II-1.0.0-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/rayo-1.0.0/RAYO-II-1.0.0-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/rayo-1.0.0",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/rayo-1.0.0"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/rayo-1.0.1/RAYO-II-1.0.1-Mac.pkg",
+    "win": "",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/rayo-1.0.1",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/rayo-1.0.1"
   },
   "cm600": {
     "name": "CM600",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "date": "2026-11-07",
     "notes": {
-      "pt": "- Primeira versão do CM600, processador de microfone para voz.\n- AU e VST3 no Mac (Apple Silicon e Intel), VST3 no Windows e o app CM600.\n- Instalador do Mac assinado e notarizado pela Apple.",
-      "en": "- First release of CM600, a microphone processor for vocals.\n- AU and VST3 on Mac (Apple Silicon and Intel), VST3 on Windows, plus the CM600 app.\n- Mac installer signed and notarized by Apple."
+      "pt": "- O fabricante agora aparece como Amira Audio no menu de plug-ins da DAW (AU e VST3), junto com os outros plug-ins da marca.\n- Sessões, presets e licença continuam funcionando sem mudar nada.\n- Instalador do Mac assinado e notarizado pela Apple.",
+      "en": "- The manufacturer now shows as Amira Audio in your DAW's plug-in menu (AU and VST3), next to the other plug-ins of the brand.\n- Sessions, presets and your license keep working with no changes.\n- Mac installer signed and notarized by Apple."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/cm600-1.0.0/CM600-1.0.0-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/cm600-1.0.0/CM600-1.0.0-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/cm600-1.0.0",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/cm600-1.0.0"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/cm600-1.0.1/CM600-1.0.1-Mac.pkg",
+    "win": "",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/cm600-1.0.1",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/cm600-1.0.1"
   },
   "brabo73": {
     "name": "BRABO 73",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "date": "2026-11-07",
     "notes": {
-      "pt": "- Primeira versão do BRABO 73, channel strip.\n- AU e VST3 no Mac (Apple Silicon e Intel), VST3 no Windows e o app BRABO 73.\n- Instalador do Mac assinado e notarizado pela Apple.",
-      "en": "- First release of BRABO 73, a channel strip.\n- AU and VST3 on Mac (Apple Silicon and Intel), VST3 on Windows, plus the BRABO 73 app.\n- Mac installer signed and notarized by Apple."
+      "pt": "- O fabricante agora aparece como Amira Audio no menu de plug-ins da DAW (AU e VST3), junto com os outros plug-ins da marca.\n- Sessões, presets e licença continuam funcionando sem mudar nada.\n- Instalador do Mac assinado e notarizado pela Apple.",
+      "en": "- The manufacturer now shows as Amira Audio in your DAW's plug-in menu (AU and VST3), next to the other plug-ins of the brand.\n- Sessions, presets and your license keep working with no changes.\n- Mac installer signed and notarized by Apple."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/brabo73-1.0.0/BRABO73-1.0.0-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/brabo73-1.0.0/BRABO73-1.0.0-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/brabo73-1.0.0",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/brabo73-1.0.0"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/brabo73-1.0.1/BRABO73-1.0.1-Mac.pkg",
+    "win": "",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/brabo73-1.0.1",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/brabo73-1.0.1"
   },
   "rack7": {
     "name": "Rack7",
@@ -75,55 +75,55 @@
   },
   "kodala": {
     "name": "KODALA",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "date": "2026-11-07",
     "notes": {
-      "pt": "- Primeira versão do KODALA: TAPE 824, SYNTH 6, SPACE e MOD num processador de guitarra.\n- Plug-in AU e VST3, mais o app KODALA para tocar ao vivo com a menor latência que a sua interface de áudio permite.\n- 32 presets de fábrica, favoritos e presets do usuário.",
-      "en": "- First release of KODALA: TAPE 824, SYNTH 6, SPACE and MOD in one guitar processor.\n- AU and VST3 plug-in, plus the KODALA app for playing live with the lowest latency your audio interface allows.\n- 32 factory presets, favourites and user presets."
+      "pt": "- O fabricante agora aparece como Amira Audio no menu de plug-ins da DAW (AU e VST3), junto com os outros plug-ins da marca.\n- Sessões, presets e licença continuam funcionando sem mudar nada.\n- Instalador do Mac assinado e notarizado pela Apple.",
+      "en": "- The manufacturer now shows as Amira Audio in your DAW's plug-in menu (AU and VST3), next to the other plug-ins of the brand.\n- Sessions, presets and your license keep working with no changes.\n- Mac installer signed and notarized by Apple."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/kodala-1.0.0/KODALA-1.0.0-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/kodala-1.0.0/KODALA-1.0.0-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/kodala-1.0.0",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/kodala-1.0.0"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/kodala-1.0.1/KODALA-1.0.1-Mac.pkg",
+    "win": "",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/kodala-1.0.1",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/kodala-1.0.1"
   },
   "korale": {
     "name": "Korale",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "date": "2026-11-07",
     "notes": {
-      "pt": "- Motor novo: arraste a faixa de voz (ou um arquivo WAV/AIFF/FLAC/MP3/M4A) para o Korale; ele renderiza o coro offline, em segundo plano, frase por frase.\n- Arraste as partes geradas (Full Choir, Unison, terças, quintas, oitavas) direto para as pistas do DAW, em WAV 24 bits alinhado com a voz original, ou use SAVE ALL.\n- Vocoder neural de canto e modelo novo com 33 cantores reais de coro, treinado também para pronúncia clara, para um coro muito mais natural e humano.\n- Cada cantor tem timing, afinação, vibrato e dinâmica próprios, medidos em coros de verdade.\n- Presets de fábrica por categoria: Gospel, Backing, Harmony, Kids, Shout e Cinematic.\n- Níveis das partes, microfone, low cut, brilho, sala, estéreo e saída continuam ao vivo.\n- Requer macOS 14 Sonoma ou mais novo. Mais rápido em Apple Silicon (M1 ou mais novo); também roda em Mac Intel e com o DAW aberto em Rosetta, mais devagar.",
-      "en": "- New engine: drag a vocal track (or a WAV/AIFF/FLAC/MP3/M4A file) onto Korale; it renders the choir offline in the background, phrase by phrase.\n- Drag the generated parts (Full Choir, Unison, 3rds, 5ths, octaves) straight onto your DAW tracks, as 24-bit WAVs aligned with the original vocal, or SAVE ALL.\n- Neural singing vocoder and a new model of 33 real choir singers, also trained for clear pronunciation, for a far more natural, human choir.\n- Every singer has his own timing, tuning, vibrato and dynamics, measured on real choirs.\n- Factory presets by category: Gospel, Backing, Harmony, Kids, Shout and Cinematic.\n- Part levels, microphone, low cut, brightness, room, stereo and output stay live.\n- Requires macOS 14 Sonoma or later. Fastest on Apple Silicon (M1 or later); it also runs on Intel Macs and with the DAW opened in Rosetta, more slowly."
+      "pt": "- O fabricante agora aparece como Amira Audio no menu de plug-ins da DAW (AU e VST3), junto com os outros plug-ins da marca.\n- Sessões, presets e licença continuam funcionando sem mudar nada.\n- Instalador do Mac assinado e notarizado pela Apple.",
+      "en": "- The manufacturer now shows as Amira Audio in your DAW's plug-in menu (AU and VST3), next to the other plug-ins of the brand.\n- Sessions, presets and your license keep working with no changes.\n- Mac installer signed and notarized by Apple."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/korale-2.0.0/Korale-2.0.0-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/korale-2.0.0/Korale-2.0.0-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/korale-2.0.0",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/korale-2.0.0"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/korale-2.0.1/Korale-2.0.1-Mac.pkg",
+    "win": "",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/korale-2.0.1",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/korale-2.0.1"
   },
   "vera": {
     "name": "VERA",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "date": "2026-11-07",
     "notes": {
-      "pt": "- Primeira versão do VERA, afinação vocal com IA.\n- STUDIO: afina a voz gravada nota por nota, com editor de notas e teclado.\n- LIVE: afina a voz em tempo real.\n- AU, VST3 e app para Mac.",
-      "en": "- First release of VERA, AI vocal tuning.\n- STUDIO: tunes a recorded vocal note by note, with a note editor and keyboard.\n- LIVE: tunes your voice in real time.\n- AU, VST3 and app for Mac."
+      "pt": "- O fabricante agora aparece como Amira Audio no menu de plug-ins da DAW (AU e VST3), junto com os outros plug-ins da marca.\n- Sessões, presets e licença continuam funcionando sem mudar nada.\n- Instalador do Mac assinado e notarizado pela Apple.",
+      "en": "- The manufacturer now shows as Amira Audio in your DAW's plug-in menu (AU and VST3), next to the other plug-ins of the brand.\n- Sessions, presets and your license keep working with no changes.\n- Mac installer signed and notarized by Apple."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/vera-1.0.0/VERA-1.0.0-Mac.pkg",
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/vera-1.0.1/VERA-1.0.1-Mac.pkg",
     "win": "",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vera-1.0.0",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vera-1.0.0"
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vera-1.0.1",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vera-1.0.1"
   },
   "vasto": {
     "name": "VASTO",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "date": "2026-11-07",
     "notes": {
-      "pt": "- Primeira versão do VASTO, reverb com os algoritmos CLASSIC, MODERN e NONLINEAR.\n- 79 presets de fábrica.\n- AU e VST3 no Mac (Apple Silicon e Intel), VST3 e app no Windows.",
-      "en": "- First release of VASTO, a reverb with CLASSIC, MODERN and NONLINEAR algorithms.\n- 79 factory presets.\n- AU and VST3 on Mac (Apple Silicon and Intel), VST3 and app on Windows."
+      "pt": "- O fabricante agora aparece como Amira Audio no menu de plug-ins da DAW (AU e VST3), junto com os outros plug-ins da marca.\n- Sessões, presets e licença continuam funcionando sem mudar nada.\n- Instalador do Mac assinado e notarizado pela Apple.",
+      "en": "- The manufacturer now shows as Amira Audio in your DAW's plug-in menu (AU and VST3), next to the other plug-ins of the brand.\n- Sessions, presets and your license keep working with no changes.\n- Mac installer signed and notarized by Apple."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/vasto-1.0.0/VASTO-1.0.0-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/vasto-1.0.0/VASTO-1.0.0-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vasto-1.0.0",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vasto-1.0.0"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/vasto-1.0.1/VASTO-1.0.1-Mac.pkg",
+    "win": "",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vasto-1.0.1",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vasto-1.0.1"
   },
   "membra": {
     "name": "MEMBRA",
