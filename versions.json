@@ -254,5 +254,18 @@
     "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/vokra-1.0.0/VOKRA-1.0.0-Windows-Setup.exe",
     "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vokra-1.0.0",
     "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vokra-1.0.0"
+  },
+  "graziaz": {
+    "name": "GraZiaZ De-esser",
+    "version": "1.0.0",
+    "date": "2026-11-08",
+    "notes": {
+      "pt": "- Primeira versão: de-esser espectral adaptativo (S, SH, CH e Z).\n- Modos Vocal, Smooth e Surgical; Amount, Sensitivity e Frequency.\n- Lookahead de 0 a 10 ms e latência a partir de 5,3 ms.\n- Visor com espectro, redução por banda e a sibilância detectada; Listen para ouvir só o que sai.\n- AU, VST3, AAX e app; 24 presets.",
+      "en": "- First release: adaptive spectral de-esser (S, SH, CH and Z).\n- Vocal, Smooth and Surgical modes; Amount, Sensitivity and Frequency.\n- Lookahead from 0 to 10 ms and latency from 5.3 ms.\n- Display with spectrum, per-band reduction and the detected sibilance; Listen to hear only what is removed.\n- AU, VST3, AAX and app; 24 presets."
+    },
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/graziaz-1.0.0/GraZiaZ-1.0.0-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/graziaz-1.0.0/GraZiaZ-1.0.0-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/graziaz-1.0.0",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/graziaz-1.0.0"
   }
 }
