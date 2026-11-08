@@ -228,5 +228,18 @@
     "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/livre-1.0.0",
     "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/livre-1.0.0/Livre-1.0.0-Mac.pkg",
     "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/livre-1.0.0/Livre-1.0.0-Windows-Setup.exe"
+  },
+  "echoorbit": {
+    "name": "ECHO ORBIT",
+    "version": "1.0.0",
+    "date": "2026-11-08",
+    "notes": {
+      "pt": "- Primeira versão pública: delay estéreo e espacial com o motor AMIRA ORBIT ENGINE.\n- ORBIT MORPH: de analógico a digital, espacial e atmosférico em tempo real.\n- Oito modos: Studio, Tape, Analog, Vintage, Crystal, Orbit, Motion e Atmosphere.\n- ORBIT DISPLAY, Smart Ducking, Freeze, Pitch, Ping-Pong, Multitap, Reverse e Mid/Side.\n- Latência zero e 30 presets.",
+      "en": "- First public release: stereo and spatial delay with the AMIRA ORBIT ENGINE.\n- ORBIT MORPH: from analog to digital, spatial and atmospheric in real time.\n- Eight modes: Studio, Tape, Analog, Vintage, Crystal, Orbit, Motion and Atmosphere.\n- ORBIT DISPLAY, Smart Ducking, Freeze, Pitch, Ping-Pong, Multitap, Reverse and Mid/Side.\n- Zero latency and 30 presets."
+    },
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/echoorbit-1.0.0/EchoOrbit-1.0.0-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/echoorbit-1.0.0/EchoOrbit-1.0.0-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/echoorbit-1.0.0",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/echoorbit-1.0.0"
   }
 }
