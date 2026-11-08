@@ -218,16 +218,16 @@
   },
   "livre": {
     "name": "Livre",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "date": "2026-11-08",
     "notes": {
-      "en": "Initial local neural speech noise cleanup release. AU/VST3/standalone; three-hour usage trial. See release notes for platform and restoration limitations.",
-      "pt": "Primeira versão de limpeza neural local de ruído em fala. AU/VST3/aplicativo; teste de três horas de uso. Limitações de plataformas e restauração descritas na release."
+      "pt": "- Instalador do Windows com o leia-me e a licença de uso corretos.\n- Ajustes internos; o som não muda.",
+      "en": "- Windows installer with the correct read-me and license agreement.\n- Internal improvements; the sound is unchanged."
     },
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/livre-1.0.0",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/livre-1.0.0",
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/livre-1.0.0/Livre-1.0.0-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/livre-1.0.0/Livre-1.0.0-Windows-Setup.exe"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/livre-1.0.1/Livre-1.0.1-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/livre-1.0.1/Livre-1.0.1-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/livre-1.0.1",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/livre-1.0.1"
   },
   "echoorbit": {
     "name": "ECHO ORBIT",
