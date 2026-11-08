@@ -267,5 +267,18 @@
     "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/graziaz-1.0.0/GraZiaZ-1.0.0-Windows-Setup.exe",
     "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/graziaz-1.0.0",
     "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/graziaz-1.0.0"
+  },
+  "velta": {
+    "name": "Velta",
+    "version": "1.0.0",
+    "date": "2026-11-08",
+    "notes": {
+      "pt": "- Primeira versão pública: controle inteligente de ressonâncias e aspereza.\n- Modos SOFT e HARD, DEPTH, DETAIL, ATTACK, RELEASE, TILT e MAX CUT.\n- FOCUS: SIBILANCE, HARSHNESS, SMOOTH e PRESENCE.\n- Seis nós de sensibilidade com oito formatos e escuta da faixa.\n- Delta, latência zero, fase mínima ou linear, oversample até 8x, M/S, sidechain e 25 presets.",
+      "en": "- First public release: intelligent resonance and harshness control.\n- SOFT and HARD modes, DEPTH, DETAIL, ATTACK, RELEASE, TILT and MAX CUT.\n- FOCUS: SIBILANCE, HARSHNESS, SMOOTH and PRESENCE.\n- Six sensitivity nodes with eight shapes and band listen.\n- Delta, zero latency, minimum or linear phase, up to 8x oversampling, M/S, sidechain and 25 presets."
+    },
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/velta-1.0.0/Velta-1.0.0-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/velta-1.0.0/Velta-1.0.0-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/velta-1.0.0",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/velta-1.0.0"
   }
 }
