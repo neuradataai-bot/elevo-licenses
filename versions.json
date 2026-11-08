@@ -241,5 +241,18 @@
     "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/echoorbit-1.0.0/EchoOrbit-1.0.0-Windows-Setup.exe",
     "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/echoorbit-1.0.0",
     "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/echoorbit-1.0.0"
+  },
+  "vokra": {
+    "name": "VOKRA",
+    "version": "1.0.0",
+    "date": "2026-11-08",
+    "notes": {
+      "pt": "- Primeira versão pública: transformador vocal com hard-tune, robô, ressíntese e vocoder.\n- PITCH: modos Scale, Note, Duo e MIDI (até 5 vozes), Quantize, Robotify e Formant.\n- SYNTHESIZE: 64 wavetables de fábrica e uma do usuário (WAV de um ciclo), Transform, Shape, Stretch, Note Shift e Octave.\n- FILTER espectral (HPF, LPF e Boost), Widen, Warble, Buffer e Freeze, De-ess, Gate, Smoothing e Sharpen.\n- Buffer Low, Medium e High (37, 80 e 187 ms) e 42 presets.",
+      "en": "- First public release: vocal transformer with hard-tune, robot, resynthesis and vocoder.\n- PITCH: Scale, Note, Duo and MIDI modes (up to 5 voices), Quantize, Robotify and Formant.\n- SYNTHESIZE: 64 factory wavetables plus a user table (single-cycle WAV), Transform, Shape, Stretch, Note Shift and Octave.\n- Spectral FILTER (HPF, LPF and Boost), Widen, Warble, Buffer and Freeze, De-ess, Gate, Smoothing and Sharpen.\n- Buffer Low, Medium and High (37, 80 and 187 ms) and 42 presets."
+    },
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/vokra-1.0.0/VOKRA-1.0.0-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/vokra-1.0.0/VOKRA-1.0.0-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vokra-1.0.0",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vokra-1.0.0"
   }
 }
