@@ -306,5 +306,18 @@
     "page": "https://amira.audio/plugins/robotone/",
     "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/robotone-1.0.0/ROBOTONE-1.0.0-Mac.pkg",
     "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/robotone-1.0.0/ROBOTONE-1.0.0-Windows-Setup.exe"
+  },
+  "otax": {
+    "name": "OTAX",
+    "version": "1.0.0",
+    "date": "2026-11-09",
+    "notes": {
+      "en": "- Tape-inspired saturation with 4x oversampling and 7.5, 15 and 30 IPS speeds.\n- Input, Drive, Bias, Wow, Flutter, Output and Mix controls, plus four adjustable analog-noise characters.\n- Five factory presets, four VU meters, animated reels, tape transport and illuminated speed keys.\n- Mac AU, VST3 and standalone; Windows VST3 and standalone. Three-hour audio-use trial.",
+      "pt": "- Saturação inspirada em fita com oversampling4x e velocidades de7,5,15 e30 IPS.\n- Controles Input, Drive, Bias, Wow, Flutter, Output, Mix e quatro tipos de ruído analógico ajustável.\n- Cinco presets, quatro VUs, rolos e transporte animados e teclas de velocidade iluminadas.\n- Mac AU, VST3 e aplicativo; Windows VST3 e aplicativo. Teste de três horas de uso com áudio."
+    },
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/otax-1.0.0",
+    "page": "https://amira.audio/plugins/otax/",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/otax-1.0.0/OTAX-1.0.0-Windows-Setup.exe",
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/otax-1.0.0/OTAX-1.0.0-Mac.pkg"
   }
 }
