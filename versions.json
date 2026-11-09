@@ -286,11 +286,12 @@
     "version": "1.0.0",
     "date": "2026-11-09",
     "notes": {
-      "en": "- 24-band dynamic equalizer with eight filter shapes and channel routing.\n- Input/output analyzer, band solo, external sidechain, seven presets and A/B comparison.\n- AU, VST3 and standalone for Apple Silicon Mac, with a three-hour usage trial.",
-      "pt": "- Equalizador dinâmico de 24 bandas com oito tipos de filtro e roteamento por canal.\n- Analisador de entrada/saída, solo por banda, sidechain externo, sete presets e comparação A/B.\n- AU, VST3 e aplicativo para Mac Apple Silicon, com teste de três horas de uso."
+      "en": "- 24-band dynamic equalizer with eight filter shapes and channel routing.\n- Input/output analyzer, band solo, external sidechain, seven presets and A/B comparison.\n- AU, VST3 and standalone for Apple Silicon Mac, with a three-hour usage trial.\n- Windows x64 VST3 and standalone installer.",
+      "pt": "- Equalizador dinâmico de 24 bandas com oito tipos de filtro e roteamento por canal.\n- Analisador de entrada/saída, solo por banda, sidechain externo, sete presets e comparação A/B.\n- AU, VST3 e aplicativo para Mac Apple Silicon, com teste de três horas de uso.\n- Instalador Windows x64 com VST3 e aplicativo."
     },
     "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/allien-1.0.0",
     "page": "https://amira.audio/plugins/allien/",
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/allien-1.0.0/AllienEQPlus-1.0.0-Mac.pkg"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/allien-1.0.0/AllienEQPlus-1.0.0-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/allien-1.0.0/AllienEQPlus-1.0.0-Windows-Setup.exe"
   }
 }
