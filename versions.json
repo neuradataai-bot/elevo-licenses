@@ -293,5 +293,17 @@
     "page": "https://amira.audio/plugins/allien/",
     "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/allien-1.0.0/AllienEQPlus-1.0.0-Mac.pkg",
     "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/allien-1.0.0/AllienEQPlus-1.0.0-Windows-Setup.exe"
+  },
+  "robotone": {
+    "name": "ROBOTONE",
+    "version": "1.0.0",
+    "date": "2026-11-09",
+    "notes": {
+      "en": "- Creative 32-band vocoder with eight carrier voices and 12 factory presets.\n- Formant, Clarity, Texture, Body, Unison, Space, Morph and Freeze.\n- Playable C3–C4 pads, host MIDI, Hold, A/B and session recall.\n- AU, VST3 and standalone for Apple Silicon Mac, with a three-hour audio-use trial.",
+      "pt": "- Vocoder criativo de 32 bandas com oito vozes portadoras e 12 presets de fábrica.\n- Formant, Clarity, Texture, Body, Unison, Space, Morph e Freeze.\n- Pads C3–C4, MIDI da DAW, Hold, A/B e recuperação de sessão.\n- AU, VST3 e aplicativo para Mac Apple Silicon, com teste de três horas de uso com áudio."
+    },
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/robotone-1.0.0",
+    "page": "https://amira.audio/plugins/robotone/",
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/robotone-1.0.0/ROBOTONE-1.0.0-Mac.pkg"
   }
 }
