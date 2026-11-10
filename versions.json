@@ -319,5 +319,19 @@
     "page": "https://amira.audio/plugins/otax/",
     "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/otax-1.0.0/OTAX-1.0.0-Windows-Setup.exe",
     "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/otax-1.0.0/OTAX-1.0.0-Mac.pkg"
+  },
+  "abt": {
+    "name": "ABT",
+    "version": "1.0.0",
+    "date": "2026-11-10",
+    "notes": [
+      "Six processing sections for mix and master buses.",
+      "14 factory presets, 4x oversampling and complete host automation.",
+      "Mac AU/VST3/standalone and Windows x64 VST3/standalone."
+    ],
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/abt-1.0.0",
+    "page": "https://amira.audio/plugins/abt/",
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/abt-1.0.0/ABT-1.0.0-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/abt-1.0.0/ABT-1.0.0-Windows-Setup.exe"
   }
 }
