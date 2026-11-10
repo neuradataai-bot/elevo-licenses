@@ -62,16 +62,16 @@
   },
   "rack7": {
     "name": "Rack7",
-    "version": "1.0.2",
-    "date": "2026-11-10",
+    "version": "1.0.3",
+    "date": "2026-11-11",
     "notes": {
-      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Painel atualizado.\n- Sessões, presets e licenças continuam funcionando.",
-      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Refreshed panel.\n- Sessions, presets and licenses keep working."
+      "pt": "- Assinatura \"by Babini\" retirada também das unidades ATRI8, RAYO II e CM600 dentro do rack (fica só no BRABO 73).\n- Sessões, presets e licenças continuam funcionando.",
+      "en": "- Removed the \"by Babini\" signature from the ATRI8, RAYO II and CM600 units inside the rack too (it stays only on BRABO 73).\n- Sessions, presets and licenses keep working."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/rack7-1.0.2/Rack7-1.0.2-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/rack7-1.0.2/Rack7-1.0.2-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/rack7-1.0.2",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/rack7-1.0.2"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/rack7-1.0.3/Rack7-1.0.3-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/rack7-1.0.3/Rack7-1.0.3-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/rack7-1.0.3",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/rack7-1.0.3"
   },
   "kodala": {
     "name": "KODALA",
@@ -89,13 +89,13 @@
   "korale": {
     "name": "Korale",
     "version": "2.0.2",
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "notes": {
       "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Painel atualizado.\n- Sessões, presets e licenças continuam funcionando.",
       "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Refreshed panel.\n- Sessions, presets and licenses keep working."
     },
     "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/korale-2.0.2/Korale-2.0.2-Mac.pkg",
-    "win": "",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/korale-2.0.2/Korale-2.0.2-Windows-Setup.exe",
     "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/korale-2.0.2",
     "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/korale-2.0.2"
   },
