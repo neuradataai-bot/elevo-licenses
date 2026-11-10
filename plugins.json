@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-11-10T22:43:30.266Z",
+  "updated": "2026-11-10T22:54:54.429Z",
   "atri8": {
     "cd256b2403727e7cde23d325e413da34436324aaf5282408814db9a5f767423a": {
       "a": true
@@ -75,7 +75,11 @@
   "veltron": {},
   "livre": {},
   "studiochorus": {},
-  "revelaprima": {},
+  "revelaprima": {
+    "d4a6adcd58aa3709f2da592d15fec408eb4e077d0424537054b2f9b4b555063c": {
+      "a": true
+    }
+  },
   "velta": {},
   "graziaz": {},
   "echoorbit": {},
