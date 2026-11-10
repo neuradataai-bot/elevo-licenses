@@ -10,328 +10,327 @@
   },
   "atri8": {
     "name": "ATRI8",
-    "version": "1.0.1",
-    "date": "2026-11-07",
+    "version": "1.0.2",
+    "date": "2026-11-10",
     "notes": {
-      "pt": "- O fabricante agora aparece como Amira Audio no menu de plug-ins da DAW (AU e VST3), junto com os outros plug-ins da marca.\n- Sessões, presets e licença continuam funcionando sem mudar nada.\n- Instalador do Mac assinado e notarizado pela Apple.",
-      "en": "- The manufacturer now shows as Amira Audio in your DAW's plug-in menu (AU and VST3), next to the other plug-ins of the brand.\n- Sessions, presets and your license keep working with no changes.\n- Mac installer signed and notarized by Apple."
+      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Painel atualizado.\n- Sessões, presets e licenças continuam funcionando.",
+      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Refreshed panel.\n- Sessions, presets and licenses keep working."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/atri8-1.0.1/ATRI8-1.0.1-Mac.pkg",
-    "win": "",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/atri8-1.0.1",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/atri8-1.0.1"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/atri8-1.0.2/ATRI8-1.0.2-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/atri8-1.0.2/ATRI8-1.0.2-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/atri8-1.0.2",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/atri8-1.0.2"
   },
   "rayo": {
     "name": "RAYO II",
-    "version": "1.0.1",
-    "date": "2026-11-07",
+    "version": "1.0.2",
+    "date": "2026-11-10",
     "notes": {
-      "pt": "- O fabricante agora aparece como Amira Audio no menu de plug-ins da DAW (AU e VST3), junto com os outros plug-ins da marca.\n- Sessões, presets e licença continuam funcionando sem mudar nada.\n- Instalador do Mac assinado e notarizado pela Apple.",
-      "en": "- The manufacturer now shows as Amira Audio in your DAW's plug-in menu (AU and VST3), next to the other plug-ins of the brand.\n- Sessions, presets and your license keep working with no changes.\n- Mac installer signed and notarized by Apple."
+      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Painel atualizado.\n- Sessões, presets e licenças continuam funcionando.",
+      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Refreshed panel.\n- Sessions, presets and licenses keep working."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/rayo-1.0.1/RAYO-II-1.0.1-Mac.pkg",
-    "win": "",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/rayo-1.0.1",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/rayo-1.0.1"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/rayo-1.0.2/RAYO-II-1.0.2-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/rayo-1.0.2/RAYO-II-1.0.2-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/rayo-1.0.2",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/rayo-1.0.2"
   },
   "cm600": {
     "name": "CM600",
-    "version": "1.0.1",
-    "date": "2026-11-07",
+    "version": "1.0.2",
+    "date": "2026-11-10",
     "notes": {
-      "pt": "- O fabricante agora aparece como Amira Audio no menu de plug-ins da DAW (AU e VST3), junto com os outros plug-ins da marca.\n- Sessões, presets e licença continuam funcionando sem mudar nada.\n- Instalador do Mac assinado e notarizado pela Apple.",
-      "en": "- The manufacturer now shows as Amira Audio in your DAW's plug-in menu (AU and VST3), next to the other plug-ins of the brand.\n- Sessions, presets and your license keep working with no changes.\n- Mac installer signed and notarized by Apple."
+      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Painel atualizado.\n- Sessões, presets e licenças continuam funcionando.",
+      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Refreshed panel.\n- Sessions, presets and licenses keep working."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/cm600-1.0.1/CM600-1.0.1-Mac.pkg",
-    "win": "",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/cm600-1.0.1",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/cm600-1.0.1"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/cm600-1.0.2/CM600-1.0.2-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/cm600-1.0.2/CM600-1.0.2-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/cm600-1.0.2",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/cm600-1.0.2"
   },
   "brabo73": {
     "name": "BRABO 73",
-    "version": "1.0.1",
-    "date": "2026-11-07",
+    "version": "1.0.2",
+    "date": "2026-11-10",
     "notes": {
-      "pt": "- O fabricante agora aparece como Amira Audio no menu de plug-ins da DAW (AU e VST3), junto com os outros plug-ins da marca.\n- Sessões, presets e licença continuam funcionando sem mudar nada.\n- Instalador do Mac assinado e notarizado pela Apple.",
-      "en": "- The manufacturer now shows as Amira Audio in your DAW's plug-in menu (AU and VST3), next to the other plug-ins of the brand.\n- Sessions, presets and your license keep working with no changes.\n- Mac installer signed and notarized by Apple."
+      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Sessões, presets e licenças continuam funcionando.",
+      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Sessions, presets and licenses keep working."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/brabo73-1.0.1/BRABO73-1.0.1-Mac.pkg",
-    "win": "",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/brabo73-1.0.1",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/brabo73-1.0.1"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/brabo73-1.0.2/BRABO73-1.0.2-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/brabo73-1.0.2/BRABO73-1.0.2-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/brabo73-1.0.2",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/brabo73-1.0.2"
   },
   "rack7": {
     "name": "Rack7",
-    "version": "1.0.1",
-    "date": "2026-11-07",
+    "version": "1.0.2",
+    "date": "2026-11-10",
     "notes": {
-      "pt": "- Rack7: CM600, BRABO 73, RAYO II e ATRI8 num rack só, com microfone virtual, para rádio e voz ao vivo.\n- App para Mac (Apple Silicon e Intel) e Windows.\n- Instalador do Mac assinado e notarizado pela Apple.",
-      "en": "- Rack7: CM600, BRABO 73, RAYO II and ATRI8 in one rack, with a virtual microphone, for radio and live vocals.\n- App for Mac (Apple Silicon and Intel) and Windows.\n- Mac installer signed and notarized by Apple."
+      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Painel atualizado.\n- Sessões, presets e licenças continuam funcionando.",
+      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Refreshed panel.\n- Sessions, presets and licenses keep working."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/rack7-1.0.1/Rack7-1.0.1-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/rack7-1.0.1/Rack7-1.0.1-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/rack7-1.0.1",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/rack7-1.0.1"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/rack7-1.0.2/Rack7-1.0.2-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/rack7-1.0.2/Rack7-1.0.2-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/rack7-1.0.2",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/rack7-1.0.2"
   },
   "kodala": {
     "name": "KODALA",
-    "version": "1.0.1",
-    "date": "2026-11-07",
+    "version": "1.0.2",
+    "date": "2026-11-10",
     "notes": {
-      "pt": "- O fabricante agora aparece como Amira Audio no menu de plug-ins da DAW (AU e VST3), junto com os outros plug-ins da marca.\n- Sessões, presets e licença continuam funcionando sem mudar nada.\n- Instalador do Mac assinado e notarizado pela Apple.",
-      "en": "- The manufacturer now shows as Amira Audio in your DAW's plug-in menu (AU and VST3), next to the other plug-ins of the brand.\n- Sessions, presets and your license keep working with no changes.\n- Mac installer signed and notarized by Apple."
+      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Sessões, presets e licenças continuam funcionando.",
+      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Sessions, presets and licenses keep working."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/kodala-1.0.1/KODALA-1.0.1-Mac.pkg",
-    "win": "",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/kodala-1.0.1",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/kodala-1.0.1"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/kodala-1.0.2/KODALA-1.0.2-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/kodala-1.0.2/KODALA-1.0.2-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/kodala-1.0.2",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/kodala-1.0.2"
   },
   "korale": {
     "name": "Korale",
-    "version": "2.0.1",
-    "date": "2026-11-07",
+    "version": "2.0.2",
+    "date": "2026-11-10",
     "notes": {
-      "pt": "- O fabricante agora aparece como Amira Audio no menu de plug-ins da DAW (AU e VST3), junto com os outros plug-ins da marca.\n- Sessões, presets e licença continuam funcionando sem mudar nada.\n- Instalador do Mac assinado e notarizado pela Apple.",
-      "en": "- The manufacturer now shows as Amira Audio in your DAW's plug-in menu (AU and VST3), next to the other plug-ins of the brand.\n- Sessions, presets and your license keep working with no changes.\n- Mac installer signed and notarized by Apple."
+      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Painel atualizado.\n- Sessões, presets e licenças continuam funcionando.",
+      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Refreshed panel.\n- Sessions, presets and licenses keep working."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/korale-2.0.1/Korale-2.0.1-Mac.pkg",
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/korale-2.0.2/Korale-2.0.2-Mac.pkg",
     "win": "",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/korale-2.0.1",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/korale-2.0.1"
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/korale-2.0.2",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/korale-2.0.2"
   },
   "vera": {
     "name": "VERA",
-    "version": "1.0.1",
-    "date": "2026-11-07",
+    "version": "1.0.2",
+    "date": "2026-11-10",
     "notes": {
-      "pt": "- O fabricante agora aparece como Amira Audio no menu de plug-ins da DAW (AU e VST3), junto com os outros plug-ins da marca.\n- Sessões, presets e licença continuam funcionando sem mudar nada.\n- Instalador do Mac assinado e notarizado pela Apple.",
-      "en": "- The manufacturer now shows as Amira Audio in your DAW's plug-in menu (AU and VST3), next to the other plug-ins of the brand.\n- Sessions, presets and your license keep working with no changes.\n- Mac installer signed and notarized by Apple."
+      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Painel atualizado.\n- Sessões, presets e licenças continuam funcionando.",
+      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Refreshed panel.\n- Sessions, presets and licenses keep working."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/vera-1.0.1/VERA-1.0.1-Mac.pkg",
-    "win": "",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vera-1.0.1",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vera-1.0.1"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/vera-1.0.2/VERA-1.0.2-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/vera-1.0.2/VERA-1.0.2-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vera-1.0.2",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vera-1.0.2"
   },
   "vasto": {
     "name": "VASTO",
-    "version": "1.0.1",
-    "date": "2026-11-07",
+    "version": "1.0.2",
+    "date": "2026-11-10",
     "notes": {
-      "pt": "- O fabricante agora aparece como Amira Audio no menu de plug-ins da DAW (AU e VST3), junto com os outros plug-ins da marca.\n- Sessões, presets e licença continuam funcionando sem mudar nada.\n- Instalador do Mac assinado e notarizado pela Apple.",
-      "en": "- The manufacturer now shows as Amira Audio in your DAW's plug-in menu (AU and VST3), next to the other plug-ins of the brand.\n- Sessions, presets and your license keep working with no changes.\n- Mac installer signed and notarized by Apple."
+      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Painel atualizado.\n- Sessões, presets e licenças continuam funcionando.",
+      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Refreshed panel.\n- Sessions, presets and licenses keep working."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/vasto-1.0.1/VASTO-1.0.1-Mac.pkg",
-    "win": "",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vasto-1.0.1",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vasto-1.0.1"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/vasto-1.0.2/VASTO-1.0.2-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/vasto-1.0.2/VASTO-1.0.2-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vasto-1.0.2",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vasto-1.0.2"
   },
   "membra": {
     "name": "MEMBRA",
-    "version": "1.0.1",
-    "date": "2026-11-07",
+    "version": "1.0.2",
+    "date": "2026-11-10",
     "notes": {
-      "pt": "- Primeira versão pública: transforma o seu microfone em 14 microfones clássicos de estúdio (válvula, FET e fita).\n- Tube heat: a temperatura da válvula, com mais harmônicos e calor.\n- Character: de 0 % (o seu microfone) a 200 % (o caráter exagerado).\n- Padrão polar e chaves do microfone de destino, como no original.",
-      "en": "- First public release: turns your microphone into 14 classic studio microphones (tube, FET and ribbon).\n- Tube heat: the tube's temperature, with more harmonics and warmth.\n- Character: from 0 % (your microphone) to 200 % (exaggerated character).\n- Polar pattern and switches of the target microphone, as on the original."
+      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Painel atualizado.\n- Sessões, presets e licenças continuam funcionando.",
+      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Refreshed panel.\n- Sessions, presets and licenses keep working."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/membra-1.0.1/MEMBRA-1.0.1-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/membra-1.0.1/MEMBRA-1.0.1-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/membra-1.0.1",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/membra-1.0.1"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/membra-1.0.2/MEMBRA-1.0.2-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/membra-1.0.2/MEMBRA-1.0.2-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/membra-1.0.2",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/membra-1.0.2"
   },
   "e888": {
     "name": "888",
-    "version": "1.0.1",
-    "date": "2026-11-07",
+    "version": "1.0.2",
+    "date": "2026-11-10",
     "notes": {
-      "pt": "- A janela abre mais baixa (60 % do tamanho original) e cabe na tela do DAW.\n- Projetos salvos com a janela grande reabrem limitados a 80 % da altura da tela.\n- Window Size de 45 a 100 % no menu da engrenagem.",
-      "en": "- The window opens shorter (60 % of the original size) and fits inside the DAW.\n- Projects saved with a large window reopen limited to 80 % of the screen height.\n- Window Size from 45 to 100 % in the gear menu."
+      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Painel atualizado.\n- Sessões, presets e licenças continuam funcionando.",
+      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Refreshed panel.\n- Sessions, presets and licenses keep working."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/e888-1.0.1/888-1.0.1-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/e888-1.0.1/888-1.0.1-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/e888-1.0.1",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/e888-1.0.1"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/e888-1.0.2/888-1.0.2-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/e888-1.0.2/888-1.0.2-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/e888-1.0.2",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/e888-1.0.2"
   },
   "reliq": {
     "name": "RELIQ",
-    "version": "1.0.0",
-    "date": "2026-11-07",
+    "version": "1.0.1",
+    "date": "2026-11-10",
     "notes": {
-      "pt": "- Primeira versão pública: cor vintage e lo-fi num só aparelho.\n- Sete módulos: VINYL, TAPE HISS, WOBBLE (wow e flutter), DRIVE (seis saturações), DIGITAL, MAGNETIC (dropouts) e SPACE.\n- FLUX, MAGNITUDE, TONE e MASTER, com toca-discos, carretéis, VUs e olho mágico animados.\n- 32 presets de fábrica.",
-      "en": "- First public release: vintage color and lo-fi in one machine.\n- Seven modules: VINYL, TAPE HISS, WOBBLE (wow and flutter), DRIVE (six saturations), DIGITAL, MAGNETIC (dropouts) and SPACE.\n- FLUX, MAGNITUDE, TONE and MASTER, with an animated turntable, tape reels, VU meters and magic eye.\n- 32 factory presets."
+      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Painel atualizado.\n- Sessões, presets e licenças continuam funcionando.",
+      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Refreshed panel.\n- Sessions, presets and licenses keep working."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/reliq-1.0.0/RELIQ-1.0.0-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/reliq-1.0.0/RELIQ-1.0.0-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/reliq-1.0.0",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/reliq-1.0.0"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/reliq-1.0.1/RELIQ-1.0.1-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/reliq-1.0.1/RELIQ-1.0.1-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/reliq-1.0.1",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/reliq-1.0.1"
   },
   "pulp": {
     "name": "PULP",
-    "version": "1.0.0",
-    "date": "2026-11-07",
+    "version": "1.0.1",
+    "date": "2026-11-10",
     "notes": {
-      "pt": "- Primeira versão pública: processador inteligente de baixo.\n- CLEAN: redutor de ruído que aprende sozinho e remove zumbido de 50 ou 60 Hz, com LISTEN.\n- PUNCH: compressão inteligente com nivelador de notas e controle de picos de slap.\n- TONE: EQ adaptativo com cinco caracteres (DEEP, ROUND, MODERN, GRIT, VINTAGE), LOW e BITE.\n- 19 presets de fábrica.",
-      "en": "- First public release: intelligent bass processor.\n- CLEAN: self-learning noise reduction that also removes 50 or 60 Hz hum, with LISTEN.\n- PUNCH: smart compression with a note leveler and slap peak control.\n- TONE: adaptive EQ with five characters (DEEP, ROUND, MODERN, GRIT, VINTAGE), LOW and BITE.\n- 19 factory presets."
+      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Painel atualizado.\n- Sessões, presets e licenças continuam funcionando.",
+      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Refreshed panel.\n- Sessions, presets and licenses keep working."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/pulp-1.0.0/PULP-1.0.0-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/pulp-1.0.0/PULP-1.0.0-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/pulp-1.0.0",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/pulp-1.0.0"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/pulp-1.0.1/PULP-1.0.1-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/pulp-1.0.1/PULP-1.0.1-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/pulp-1.0.1",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/pulp-1.0.1"
   },
   "solid": {
     "name": "Solid",
-    "version": "1.0.0",
-    "date": "2026-11-07",
+    "version": "1.0.1",
+    "date": "2026-11-10",
     "notes": {
-      "pt": "- Primeira versão pública: compressor de barramento VCA com estágio de válvula classe A.\n- Ratios 2, 4 e 10, ataques de 0,1 a 30 ms, liberações de 0,1 a 1,2 s e AUTO.\n- TUBE DRIVE, MIX paralelo, S/C HPF, ANALOG e oversampling até 4x.\n- VU de redução e válvula animados; 25 presets de fábrica.",
-      "en": "- First public release: VCA bus compressor with a class A tube stage.\n- Ratios of 2, 4 and 10, attacks from 0.1 to 30 ms, releases from 0.1 to 1.2 s and AUTO.\n- TUBE DRIVE, parallel MIX, S/C HPF, ANALOG and up to 4x oversampling.\n- Animated gain reduction VU and tube; 25 factory presets."
+      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Painel atualizado.\n- Sessões, presets e licenças continuam funcionando.",
+      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Refreshed panel.\n- Sessions, presets and licenses keep working."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/solid-1.0.0/Solid-1.0.0-Mac.pkg",
-    "win": "",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/solid-1.0.0",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/solid-1.0.0"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/solid-1.0.1/Solid-1.0.1-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/solid-1.0.1/Solid-1.0.1-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/solid-1.0.1",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/solid-1.0.1"
   },
   "veltron": {
     "name": "VELTRON",
-    "version": "1.0.0",
-    "date": "2026-11-07",
+    "version": "1.0.1",
+    "date": "2026-11-10",
     "notes": {
-      "pt": "- Primeira versão pública: suíte de masterização com nivelador óptico LUMEN, compressor Classe A VECTOR e transformadores NICKEL, IRON e STEEL.\n- PRISM: dinâmica de precisão com liberação dupla, joelho suave, expansão, de-esser e banda em fase linear.\n- CEILING: limitador Safe, Brickwall e True Peak 8x, com dither de 24, 20 e 16 bits.\n- Estéreo, dual e M/S, LUFS e true peak, A/B, chiado analógico dosável (desligado de fábrica) e 25 presets de masterização.",
-      "en": "- First public release: mastering suite with the LUMEN optical leveler, the VECTOR Class-A compressor and NICKEL, IRON and STEEL transformers.\n- PRISM: precision dynamics with dual release, soft knee, expansion, de-essing and a linear-phase band.\n- CEILING: Safe, Brickwall and 8x True Peak limiter, with 24, 20 and 16-bit dither.\n- Stereo, dual and M/S, LUFS and true peak, A/B, adjustable analog noise (off by default) and 25 mastering presets."
+      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Painel atualizado.\n- Sessões, presets e licenças continuam funcionando.",
+      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Refreshed panel.\n- Sessions, presets and licenses keep working."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/veltron-1.0.0/VELTRON-1.0.0-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/veltron-1.0.0/VELTRON-1.0.0-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/veltron-1.0.0",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/veltron-1.0.0"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/veltron-1.0.1/VELTRON-1.0.1-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/veltron-1.0.1/VELTRON-1.0.1-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/veltron-1.0.1",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/veltron-1.0.1"
   },
   "studiochorus": {
     "name": "Studio Chorus",
-    "version": "1.0.0",
-    "date": "2026-11-07",
+    "version": "1.0.1",
+    "date": "2026-11-10",
     "notes": {
-      "pt": "- Primeira versão pública: chorus para voz principal com três motores em paralelo.\n- DIMENSION: ensemble BBD de 1024 estágios com quatro botões combináveis.\n- SHIFT: micro afinação estéreo com os estilos I, II e III, Detune, Delay, Focus e Drive.\n- TRIAD: tri-chorus com Chorus, Vibrato, Chorale e Swirl, Sync e envelopes.\n- Width, Low Cut, Air e Duck só no efeito, latência zero e 26 presets.",
-      "en": "- First public release: lead-vocal chorus with three engines in parallel.\n- DIMENSION: 1024-stage BBD ensemble with four combinable buttons.\n- SHIFT: stereo micro-pitch with styles I, II and III, Detune, Delay, Focus and Drive.\n- TRIAD: tri-chorus with Chorus, Vibrato, Chorale and Swirl, Sync and envelopes.\n- Width, Low Cut, Air and Duck on the effect only, zero latency and 26 presets."
+      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Sessões, presets e licenças continuam funcionando.",
+      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Sessions, presets and licenses keep working."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/studiochorus-1.0.0/StudioChorus-1.0.0-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/studiochorus-1.0.0/StudioChorus-1.0.0-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/studiochorus-1.0.0",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/studiochorus-1.0.0"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/studiochorus-1.0.1/StudioChorus-1.0.1-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/studiochorus-1.0.1/StudioChorus-1.0.1-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/studiochorus-1.0.1",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/studiochorus-1.0.1"
   },
   "livre": {
     "name": "Livre",
-    "version": "1.0.1",
-    "date": "2026-11-08",
+    "version": "1.0.2",
+    "date": "2026-11-10",
     "notes": {
-      "pt": "- Instalador do Windows com o leia-me e a licença de uso corretos.\n- Ajustes internos; o som não muda.",
-      "en": "- Windows installer with the correct read-me and license agreement.\n- Internal improvements; the sound is unchanged."
+      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Sessões, presets e licenças continuam funcionando.",
+      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Sessions, presets and licenses keep working."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/livre-1.0.1/Livre-1.0.1-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/livre-1.0.1/Livre-1.0.1-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/livre-1.0.1",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/livre-1.0.1"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/livre-1.0.2/Livre-1.0.2-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/livre-1.0.2/Livre-1.0.2-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/livre-1.0.2",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/livre-1.0.2"
   },
   "echoorbit": {
     "name": "ECHO ORBIT",
-    "version": "1.0.0",
-    "date": "2026-11-08",
+    "version": "1.0.1",
+    "date": "2026-11-10",
     "notes": {
-      "pt": "- Primeira versão pública: delay estéreo e espacial com o motor AMIRA ORBIT ENGINE.\n- ORBIT MORPH: de analógico a digital, espacial e atmosférico em tempo real.\n- Oito modos: Studio, Tape, Analog, Vintage, Crystal, Orbit, Motion e Atmosphere.\n- ORBIT DISPLAY, Smart Ducking, Freeze, Pitch, Ping-Pong, Multitap, Reverse e Mid/Side.\n- Latência zero e 30 presets.",
-      "en": "- First public release: stereo and spatial delay with the AMIRA ORBIT ENGINE.\n- ORBIT MORPH: from analog to digital, spatial and atmospheric in real time.\n- Eight modes: Studio, Tape, Analog, Vintage, Crystal, Orbit, Motion and Atmosphere.\n- ORBIT DISPLAY, Smart Ducking, Freeze, Pitch, Ping-Pong, Multitap, Reverse and Mid/Side.\n- Zero latency and 30 presets."
+      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Sessões, presets e licenças continuam funcionando.",
+      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Sessions, presets and licenses keep working."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/echoorbit-1.0.0/EchoOrbit-1.0.0-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/echoorbit-1.0.0/EchoOrbit-1.0.0-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/echoorbit-1.0.0",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/echoorbit-1.0.0"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/echoorbit-1.0.1/EchoOrbit-1.0.1-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/echoorbit-1.0.1/EchoOrbit-1.0.1-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/echoorbit-1.0.1",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/echoorbit-1.0.1"
   },
   "vokra": {
     "name": "VOKRA",
-    "version": "1.0.0",
-    "date": "2026-11-08",
+    "version": "1.0.1",
+    "date": "2026-11-10",
     "notes": {
-      "pt": "- Primeira versão pública: transformador vocal com hard-tune, robô, ressíntese e vocoder.\n- PITCH: modos Scale, Note, Duo e MIDI (até 5 vozes), Quantize, Robotify e Formant.\n- SYNTHESIZE: 64 wavetables de fábrica e uma do usuário (WAV de um ciclo), Transform, Shape, Stretch, Note Shift e Octave.\n- FILTER espectral (HPF, LPF e Boost), Widen, Warble, Buffer e Freeze, De-ess, Gate, Smoothing e Sharpen.\n- Buffer Low, Medium e High (37, 80 e 187 ms) e 42 presets.",
-      "en": "- First public release: vocal transformer with hard-tune, robot, resynthesis and vocoder.\n- PITCH: Scale, Note, Duo and MIDI modes (up to 5 voices), Quantize, Robotify and Formant.\n- SYNTHESIZE: 64 factory wavetables plus a user table (single-cycle WAV), Transform, Shape, Stretch, Note Shift and Octave.\n- Spectral FILTER (HPF, LPF and Boost), Widen, Warble, Buffer and Freeze, De-ess, Gate, Smoothing and Sharpen.\n- Buffer Low, Medium and High (37, 80 and 187 ms) and 42 presets."
+      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Sessões, presets e licenças continuam funcionando.",
+      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Sessions, presets and licenses keep working."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/vokra-1.0.0/VOKRA-1.0.0-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/vokra-1.0.0/VOKRA-1.0.0-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vokra-1.0.0",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vokra-1.0.0"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/vokra-1.0.1/VOKRA-1.0.1-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/vokra-1.0.1/VOKRA-1.0.1-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vokra-1.0.1",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vokra-1.0.1"
   },
   "graziaz": {
     "name": "GraZiaZ De-esser",
-    "version": "1.0.0",
-    "date": "2026-11-08",
+    "version": "1.0.1",
+    "date": "2026-11-10",
     "notes": {
-      "pt": "- Primeira versão: de-esser espectral adaptativo (S, SH, CH e Z).\n- Modos Vocal, Smooth e Surgical; Amount, Sensitivity e Frequency.\n- Lookahead de 0 a 10 ms e latência a partir de 5,3 ms.\n- Visor com espectro, redução por banda e a sibilância detectada; Listen para ouvir só o que sai.\n- AU, VST3, AAX e app; 24 presets.",
-      "en": "- First release: adaptive spectral de-esser (S, SH, CH and Z).\n- Vocal, Smooth and Surgical modes; Amount, Sensitivity and Frequency.\n- Lookahead from 0 to 10 ms and latency from 5.3 ms.\n- Display with spectrum, per-band reduction and the detected sibilance; Listen to hear only what is removed.\n- AU, VST3, AAX and app; 24 presets."
+      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Sessões, presets e licenças continuam funcionando.",
+      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Sessions, presets and licenses keep working."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/graziaz-1.0.0/GraZiaZ-1.0.0-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/graziaz-1.0.0/GraZiaZ-1.0.0-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/graziaz-1.0.0",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/graziaz-1.0.0"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/graziaz-1.0.1/GraZiaZ-1.0.1-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/graziaz-1.0.1/GraZiaZ-1.0.1-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/graziaz-1.0.1",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/graziaz-1.0.1"
   },
   "velta": {
     "name": "Velta",
-    "version": "1.0.0",
-    "date": "2026-11-08",
+    "version": "1.0.1",
+    "date": "2026-11-10",
     "notes": {
-      "pt": "- Primeira versão pública: controle inteligente de ressonâncias e aspereza.\n- Modos SOFT e HARD, DEPTH, DETAIL, ATTACK, RELEASE, TILT e MAX CUT.\n- FOCUS: SIBILANCE, HARSHNESS, SMOOTH e PRESENCE.\n- Seis nós de sensibilidade com oito formatos e escuta da faixa.\n- Delta, latência zero, fase mínima ou linear, oversample até 8x, M/S, sidechain e 25 presets.",
-      "en": "- First public release: intelligent resonance and harshness control.\n- SOFT and HARD modes, DEPTH, DETAIL, ATTACK, RELEASE, TILT and MAX CUT.\n- FOCUS: SIBILANCE, HARSHNESS, SMOOTH and PRESENCE.\n- Six sensitivity nodes with eight shapes and band listen.\n- Delta, zero latency, minimum or linear phase, up to 8x oversampling, M/S, sidechain and 25 presets."
+      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Sessões, presets e licenças continuam funcionando.",
+      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Sessions, presets and licenses keep working."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/velta-1.0.0/Velta-1.0.0-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/velta-1.0.0/Velta-1.0.0-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/velta-1.0.0",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/velta-1.0.0"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/velta-1.0.1/Velta-1.0.1-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/velta-1.0.1/Velta-1.0.1-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/velta-1.0.1",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/velta-1.0.1"
   },
   "allien": {
     "name": "Allien EQ+",
-    "version": "1.0.0",
-    "date": "2026-11-09",
+    "version": "1.0.1",
+    "date": "2026-11-10",
     "notes": {
-      "en": "- 24-band dynamic equalizer with eight filter shapes and channel routing.\n- Input/output analyzer, band solo, external sidechain, seven presets and A/B comparison.\n- AU, VST3 and standalone for Apple Silicon Mac, with a three-hour usage trial.\n- Windows x64 VST3 and standalone installer.",
-      "pt": "- Equalizador dinâmico de 24 bandas com oito tipos de filtro e roteamento por canal.\n- Analisador de entrada/saída, solo por banda, sidechain externo, sete presets e comparação A/B.\n- AU, VST3 e aplicativo para Mac Apple Silicon, com teste de três horas de uso.\n- Instalador Windows x64 com VST3 e aplicativo."
+      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- No Mac, agora também roda nativo em Intel (binário universal).\n- Sessões, presets e licenças continuam funcionando.",
+      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- On Mac it now also runs natively on Intel (universal binary).\n- Sessions, presets and licenses keep working."
     },
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/allien-1.0.0",
-    "page": "https://amira.audio/plugins/allien/",
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/allien-1.0.0/AllienEQPlus-1.0.0-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/allien-1.0.0/AllienEQPlus-1.0.0-Windows-Setup.exe"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/allien-1.0.1/AllienEQPlus-1.0.1-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/allien-1.0.1/AllienEQPlus-1.0.1-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/allien-1.0.1",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/allien-1.0.1"
   },
   "robotone": {
     "name": "ROBOTONE",
-    "version": "1.0.0",
-    "date": "2026-11-09",
+    "version": "1.0.1",
+    "date": "2026-11-10",
     "notes": {
-      "en": "- Creative 32-band vocoder with eight carrier voices and 12 factory presets.\n- Formant, Clarity, Texture, Body, Unison, Space, Morph and Freeze.\n- Playable C3–C4 pads, host MIDI, Hold, A/B and session recall.\n- AU, VST3 and standalone for Apple Silicon Mac, with a three-hour audio-use trial.\n- Windows x64 VST3 and standalone installer.",
-      "pt": "- Vocoder criativo de 32 bandas com oito vozes portadoras e 12 presets de fábrica.\n- Formant, Clarity, Texture, Body, Unison, Space, Morph e Freeze.\n- Pads C3–C4, MIDI da DAW, Hold, A/B e recuperação de sessão.\n- AU, VST3 e aplicativo para Mac Apple Silicon, com teste de três horas de uso com áudio.\n- Instalador Windows x64 com VST3 e aplicativo."
+      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- No Mac, agora também roda nativo em Intel (binário universal).\n- Sessões, presets e licenças continuam funcionando.",
+      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- On Mac it now also runs natively on Intel (universal binary).\n- Sessions, presets and licenses keep working."
     },
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/robotone-1.0.0",
-    "page": "https://amira.audio/plugins/robotone/",
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/robotone-1.0.0/ROBOTONE-1.0.0-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/robotone-1.0.0/ROBOTONE-1.0.0-Windows-Setup.exe"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/robotone-1.0.1/ROBOTONE-1.0.1-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/robotone-1.0.1/ROBOTONE-1.0.1-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/robotone-1.0.1",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/robotone-1.0.1"
   },
   "otax": {
     "name": "OTAX",
-    "version": "1.0.0",
-    "date": "2026-11-09",
+    "version": "1.0.1",
+    "date": "2026-11-10",
     "notes": {
-      "en": "- Tape-inspired saturation with 4x oversampling and 7.5, 15 and 30 IPS speeds.\n- Input, Drive, Bias, Wow, Flutter, Output and Mix controls, plus four adjustable analog-noise characters.\n- Five factory presets, four VU meters, animated reels, tape transport and illuminated speed keys.\n- Mac AU, VST3 and standalone; Windows VST3 and standalone. Three-hour audio-use trial.",
-      "pt": "- Saturação inspirada em fita com oversampling de 4× e velocidades de 7,5, 15 e 30 IPS.\n- Controles Input, Drive, Bias, Wow, Flutter, Output, Mix e quatro tipos de ruído analógico ajustável.\n- Cinco presets, quatro VUs, rolos e transporte animados e teclas de velocidade iluminadas.\n- Mac AU, VST3 e aplicativo; Windows VST3 e aplicativo. Teste de três horas de uso com áudio."
+      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Os ponteiros dos VU agora giram certos, dentro do mostrador, de ponta a ponta da escala.\n- Sessões, presets e licenças continuam funcionando.",
+      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- The VU needles now move correctly, inside the meter face, from end to end of the scale.\n- Sessions, presets and licenses keep working."
     },
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/otax-1.0.0",
-    "page": "https://amira.audio/plugins/otax/",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/otax-1.0.0/OTAX-1.0.0-Windows-Setup.exe",
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/otax-1.0.0/OTAX-1.0.0-Mac.pkg"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/otax-1.0.1/OTAX-1.0.1-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/otax-1.0.1/OTAX-1.0.1-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/otax-1.0.1",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/otax-1.0.1"
   },
   "abt": {
     "name": "ABT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "date": "2026-11-10",
-    "notes": [
-      "Six processing sections for mix and master buses.",
-      "14 factory presets, 4x oversampling and complete host automation.",
-      "Mac AU/VST3/standalone and Windows x64 VST3/standalone."
-    ],
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/abt-1.0.0",
-    "page": "https://amira.audio/plugins/abt/",
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/abt-1.0.0/ABT-1.0.0-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/abt-1.0.0/ABT-1.0.0-Windows-Setup.exe"
+    "notes": {
+      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Sessões, presets e licenças continuam funcionando.",
+      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Sessions, presets and licenses keep working."
+    },
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/abt-1.0.1/ABT-1.0.1-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/abt-1.0.1/ABT-1.0.1-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/abt-1.0.1",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/abt-1.0.1"
   }
 }
