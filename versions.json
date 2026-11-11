@@ -10,68 +10,68 @@
   },
   "atri8": {
     "name": "ATRI8",
-    "version": "1.0.2",
-    "date": "2026-11-10",
+    "version": "1.0.3",
+    "date": "2026-11-12",
     "notes": {
-      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Painel atualizado.\n- Sessões, presets e licenças continuam funcionando.",
-      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Refreshed panel.\n- Sessions, presets and licenses keep working."
+      "pt": "- A ativação e o teste grátis agora são conferidos direto em amira.audio.\n- Mesmo som, mesmos presets e a mesma licença: instale por cima da versão atual.",
+      "en": "- Activation and the free trial are now checked directly at amira.audio.\n- Same sound, same presets and the same license: install over the version you have."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/atri8-1.0.2/ATRI8-1.0.2-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/atri8-1.0.2/ATRI8-1.0.2-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/atri8-1.0.2",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/atri8-1.0.2"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/atri8-1.0.3/ATRI8-1.0.3-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/atri8-1.0.3/ATRI8-1.0.3-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/atri8-1.0.3",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/atri8-1.0.3"
   },
   "rayo": {
     "name": "RAYO II",
-    "version": "1.0.2",
-    "date": "2026-11-10",
+    "version": "1.0.3",
+    "date": "2026-11-12",
     "notes": {
-      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Painel atualizado.\n- Sessões, presets e licenças continuam funcionando.",
-      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Refreshed panel.\n- Sessions, presets and licenses keep working."
+      "pt": "- A ativação e o teste grátis agora são conferidos direto em amira.audio.\n- Mesmo som, mesmos presets e a mesma licença: instale por cima da versão atual.",
+      "en": "- Activation and the free trial are now checked directly at amira.audio.\n- Same sound, same presets and the same license: install over the version you have."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/rayo-1.0.2/RAYO-II-1.0.2-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/rayo-1.0.2/RAYO-II-1.0.2-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/rayo-1.0.2",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/rayo-1.0.2"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/rayo-1.0.3/RAYO-II-1.0.3-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/rayo-1.0.3/RAYO-II-1.0.3-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/rayo-1.0.3",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/rayo-1.0.3"
   },
   "cm600": {
     "name": "CM600",
-    "version": "1.0.2",
-    "date": "2026-11-10",
+    "version": "1.0.3",
+    "date": "2026-11-12",
     "notes": {
-      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Painel atualizado.\n- Sessões, presets e licenças continuam funcionando.",
-      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Refreshed panel.\n- Sessions, presets and licenses keep working."
+      "pt": "- A ativação e o teste grátis agora são conferidos direto em amira.audio.\n- Mesmo som, mesmos presets e a mesma licença: instale por cima da versão atual.",
+      "en": "- Activation and the free trial are now checked directly at amira.audio.\n- Same sound, same presets and the same license: install over the version you have."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/cm600-1.0.2/CM600-1.0.2-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/cm600-1.0.2/CM600-1.0.2-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/cm600-1.0.2",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/cm600-1.0.2"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/cm600-1.0.3/CM600-1.0.3-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/cm600-1.0.3/CM600-1.0.3-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/cm600-1.0.3",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/cm600-1.0.3"
   },
   "brabo73": {
     "name": "BRABO 73",
-    "version": "1.0.2",
-    "date": "2026-11-10",
+    "version": "1.0.3",
+    "date": "2026-11-12",
     "notes": {
-      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Sessões, presets e licenças continuam funcionando.",
-      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Sessions, presets and licenses keep working."
+      "pt": "- A ativação e o teste grátis agora são conferidos direto em amira.audio.\n- Mesmo som, mesmos presets e a mesma licença: instale por cima da versão atual.",
+      "en": "- Activation and the free trial are now checked directly at amira.audio.\n- Same sound, same presets and the same license: install over the version you have."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/brabo73-1.0.2/BRABO73-1.0.2-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/brabo73-1.0.2/BRABO73-1.0.2-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/brabo73-1.0.2",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/brabo73-1.0.2"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/brabo73-1.0.3/BRABO73-1.0.3-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/brabo73-1.0.3/BRABO73-1.0.3-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/brabo73-1.0.3",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/brabo73-1.0.3"
   },
   "rack7": {
     "name": "Rack7",
-    "version": "1.0.3",
-    "date": "2026-11-11",
+    "version": "1.0.4",
+    "date": "2026-11-12",
     "notes": {
-      "pt": "- Assinatura \"by Babini\" retirada também das unidades ATRI8, RAYO II e CM600 dentro do rack (fica só no BRABO 73).\n- Sessões, presets e licenças continuam funcionando.",
-      "en": "- Removed the \"by Babini\" signature from the ATRI8, RAYO II and CM600 units inside the rack too (it stays only on BRABO 73).\n- Sessions, presets and licenses keep working."
+      "pt": "- A ativação e o teste grátis agora são conferidos direto em amira.audio.\n- Mesmo som, mesmos presets e a mesma licença: instale por cima da versão atual.",
+      "en": "- Activation and the free trial are now checked directly at amira.audio.\n- Same sound, same presets and the same license: install over the version you have."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/rack7-1.0.3/Rack7-1.0.3-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/rack7-1.0.3/Rack7-1.0.3-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/rack7-1.0.3",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/rack7-1.0.3"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/rack7-1.0.4/Rack7-1.0.4-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/rack7-1.0.4/Rack7-1.0.4-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/rack7-1.0.4",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/rack7-1.0.4"
   },
   "kodala": {
     "name": "KODALA",
@@ -101,55 +101,55 @@
   },
   "vera": {
     "name": "VERA",
-    "version": "1.0.2",
-    "date": "2026-11-10",
+    "version": "1.0.3",
+    "date": "2026-11-12",
     "notes": {
-      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Painel atualizado.\n- Sessões, presets e licenças continuam funcionando.",
-      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Refreshed panel.\n- Sessions, presets and licenses keep working."
+      "pt": "- A ativação e o teste grátis agora são conferidos direto em amira.audio.\n- Mesmo som, mesmos presets e a mesma licença: instale por cima da versão atual.",
+      "en": "- Activation and the free trial are now checked directly at amira.audio.\n- Same sound, same presets and the same license: install over the version you have."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/vera-1.0.2/VERA-1.0.2-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/vera-1.0.2/VERA-1.0.2-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vera-1.0.2",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vera-1.0.2"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/vera-1.0.3/VERA-1.0.3-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/vera-1.0.3/VERA-1.0.3-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vera-1.0.3",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vera-1.0.3"
   },
   "vasto": {
     "name": "VASTO",
-    "version": "1.0.2",
-    "date": "2026-11-10",
+    "version": "1.0.3",
+    "date": "2026-11-12",
     "notes": {
-      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Painel atualizado.\n- Sessões, presets e licenças continuam funcionando.",
-      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Refreshed panel.\n- Sessions, presets and licenses keep working."
+      "pt": "- A ativação e o teste grátis agora são conferidos direto em amira.audio.\n- Mesmo som, mesmos presets e a mesma licença: instale por cima da versão atual.",
+      "en": "- Activation and the free trial are now checked directly at amira.audio.\n- Same sound, same presets and the same license: install over the version you have."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/vasto-1.0.2/VASTO-1.0.2-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/vasto-1.0.2/VASTO-1.0.2-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vasto-1.0.2",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vasto-1.0.2"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/vasto-1.0.3/VASTO-1.0.3-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/vasto-1.0.3/VASTO-1.0.3-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vasto-1.0.3",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vasto-1.0.3"
   },
   "membra": {
     "name": "MEMBRA",
-    "version": "1.0.2",
-    "date": "2026-11-10",
+    "version": "1.0.3",
+    "date": "2026-11-12",
     "notes": {
-      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Painel atualizado.\n- Sessões, presets e licenças continuam funcionando.",
-      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Refreshed panel.\n- Sessions, presets and licenses keep working."
+      "pt": "- A ativação e o teste grátis agora são conferidos direto em amira.audio.\n- Mesmo som, mesmos presets e a mesma licença: instale por cima da versão atual.",
+      "en": "- Activation and the free trial are now checked directly at amira.audio.\n- Same sound, same presets and the same license: install over the version you have."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/membra-1.0.2/MEMBRA-1.0.2-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/membra-1.0.2/MEMBRA-1.0.2-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/membra-1.0.2",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/membra-1.0.2"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/membra-1.0.3/MEMBRA-1.0.3-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/membra-1.0.3/MEMBRA-1.0.3-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/membra-1.0.3",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/membra-1.0.3"
   },
   "e888": {
     "name": "888",
-    "version": "1.0.2",
-    "date": "2026-11-10",
+    "version": "1.0.3",
+    "date": "2026-11-12",
     "notes": {
-      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Painel atualizado.\n- Sessões, presets e licenças continuam funcionando.",
-      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Refreshed panel.\n- Sessions, presets and licenses keep working."
+      "pt": "- A ativação e o teste grátis agora são conferidos direto em amira.audio.\n- Mesmo som, mesmos presets e a mesma licença: instale por cima da versão atual.",
+      "en": "- Activation and the free trial are now checked directly at amira.audio.\n- Same sound, same presets and the same license: install over the version you have."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/e888-1.0.2/888-1.0.2-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/e888-1.0.2/888-1.0.2-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/e888-1.0.2",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/e888-1.0.2"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/e888-1.0.3/888-1.0.3-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/e888-1.0.3/888-1.0.3-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/e888-1.0.3",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/e888-1.0.3"
   },
   "reliq": {
     "name": "RELIQ",
@@ -166,16 +166,16 @@
   },
   "pulp": {
     "name": "PULP",
-    "version": "1.0.1",
-    "date": "2026-11-10",
+    "version": "1.0.2",
+    "date": "2026-11-12",
     "notes": {
-      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Painel atualizado.\n- Sessões, presets e licenças continuam funcionando.",
-      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Refreshed panel.\n- Sessions, presets and licenses keep working."
+      "pt": "- A ativação e o teste grátis agora são conferidos direto em amira.audio.\n- Mesmo som, mesmos presets e a mesma licença: instale por cima da versão atual.",
+      "en": "- Activation and the free trial are now checked directly at amira.audio.\n- Same sound, same presets and the same license: install over the version you have."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/pulp-1.0.1/PULP-1.0.1-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/pulp-1.0.1/PULP-1.0.1-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/pulp-1.0.1",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/pulp-1.0.1"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/pulp-1.0.2/PULP-1.0.2-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/pulp-1.0.2/PULP-1.0.2-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/pulp-1.0.2",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/pulp-1.0.2"
   },
   "solid": {
     "name": "Solid",
