@@ -345,5 +345,18 @@
     "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/spaceall-1.0.0/SpaceAll-1.0.0-Windows-Setup.exe",
     "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/spaceall-1.0.0",
     "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/spaceall-1.0.0"
+  },
+  "arcov": {
+    "name": "ARCOV",
+    "version": "1.0.0",
+    "date": "2026-11-11",
+    "notes": {
+      "pt": "- Primeira versão pública: amplificadores, pedais, caixas e efeitos para guitarra.\n- 8 Amp Cores com 3 canais cada (24 timbres) e rota dupla em paralelo.\n- 8 pedais, 16 caixas com 10 microfones e respostas de impulso do usuário.\n- Rack estéreo: EQ de 9 bandas, modulação, delay, reverb e doubler.\n- 36 presets, afinador e latência zero.",
+      "en": "- First public release: amps, pedals, cabinets and effects for guitar.\n- 8 Amp Cores with 3 channels each (24 voicings) and dual parallel routing.\n- 8 pedals, 16 cabinets with 10 microphones and user impulse responses.\n- Stereo rack: 9-band EQ, modulation, delay, reverb and a doubler.\n- 36 presets, a tuner and zero latency."
+    },
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/arcov-1.0.0/ARCOV-1.0.0-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/arcov-1.0.0/ARCOV-1.0.0-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/arcov-1.0.0",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/arcov-1.0.0"
   }
 }
