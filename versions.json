@@ -332,5 +332,18 @@
     "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/abt-1.0.1/ABT-1.0.1-Windows-Setup.exe",
     "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/abt-1.0.1",
     "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/abt-1.0.1"
+  },
+  "spaceall": {
+    "name": "Space All",
+    "version": "1.0.0",
+    "date": "2026-11-11",
+    "notes": {
+      "pt": "- Primeira versão pública: reverb com ambiente acústico em 3D.\n- 25 ambientes: estúdios de gravação, catedral, sala de concerto, caverna, cânion, carro e outros.\n- Mova a fonte, o microfone, os gobos e as cortinas e ouça a mudança.\n- Room Morph, surround até 5.1, 65 presets e presets do usuário.\n- Latência zero.",
+      "en": "- First public release: reverb with a 3D acoustic space.\n- 25 spaces: recording studios, a cathedral, a concert hall, a cave, a canyon, a car and more.\n- Move the source, the microphone, the gobos and the curtains and hear the change.\n- Room Morph, surround up to 5.1, 65 presets and user presets.\n- Zero latency."
+    },
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/spaceall-1.0.0/SpaceAll-1.0.0-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/spaceall-1.0.0/SpaceAll-1.0.0-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/spaceall-1.0.0",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/spaceall-1.0.0"
   }
 }
