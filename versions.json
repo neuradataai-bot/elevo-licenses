@@ -192,29 +192,29 @@
   },
   "veltron": {
     "name": "VELTRON",
-    "version": "1.0.1",
-    "date": "2026-11-10",
+    "version": "1.0.2",
+    "date": "2026-11-12",
     "notes": {
-      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Painel atualizado.\n- Sessões, presets e licenças continuam funcionando.",
-      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Refreshed panel.\n- Sessions, presets and licenses keep working."
+      "pt": "- A ativação e o teste grátis agora são conferidos direto em amira.audio.\n- Mesmo som, mesmos presets e a mesma licença: instale por cima da versão atual.",
+      "en": "- Activation and the free trial are now checked directly at amira.audio.\n- Same sound, same presets and the same license: install over the version you have."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/veltron-1.0.1/VELTRON-1.0.1-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/veltron-1.0.1/VELTRON-1.0.1-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/veltron-1.0.1",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/veltron-1.0.1"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/veltron-1.0.2/VELTRON-1.0.2-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/veltron-1.0.2/VELTRON-1.0.2-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/veltron-1.0.2",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/veltron-1.0.2"
   },
   "studiochorus": {
     "name": "Studio Chorus",
-    "version": "1.0.1",
-    "date": "2026-11-10",
+    "version": "1.0.2",
+    "date": "2026-11-12",
     "notes": {
-      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Sessões, presets e licenças continuam funcionando.",
-      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Sessions, presets and licenses keep working."
+      "pt": "- A ativação e o teste grátis agora são conferidos direto em amira.audio.\n- Mesmo som, mesmos presets e a mesma licença: instale por cima da versão atual.",
+      "en": "- Activation and the free trial are now checked directly at amira.audio.\n- Same sound, same presets and the same license: install over the version you have."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/studiochorus-1.0.1/StudioChorus-1.0.1-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/studiochorus-1.0.1/StudioChorus-1.0.1-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/studiochorus-1.0.1",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/studiochorus-1.0.1"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/studiochorus-1.0.2/StudioChorus-1.0.2-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/studiochorus-1.0.2/StudioChorus-1.0.2-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/studiochorus-1.0.2",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/studiochorus-1.0.2"
   },
   "livre": {
     "name": "Livre",
@@ -270,16 +270,16 @@
   },
   "velta": {
     "name": "Velta",
-    "version": "1.0.1",
-    "date": "2026-11-10",
+    "version": "1.0.2",
+    "date": "2026-11-12",
     "notes": {
-      "pt": "- Teste grátis de 7 dias corridos a partir da instalação, com todos os recursos. Depois dos 7 dias, o plug-in pede o e-mail e o serial.\n- Sessões, presets e licenças continuam funcionando.",
-      "en": "- Free 7-day trial from installation, fully featured. After 7 days, the plug-in asks for your e-mail and serial.\n- Sessions, presets and licenses keep working."
+      "pt": "- A ativação e o teste grátis agora são conferidos direto em amira.audio.\n- Mesmo som, mesmos presets e a mesma licença: instale por cima da versão atual.",
+      "en": "- Activation and the free trial are now checked directly at amira.audio.\n- Same sound, same presets and the same license: install over the version you have."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/velta-1.0.1/Velta-1.0.1-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/velta-1.0.1/Velta-1.0.1-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/velta-1.0.1",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/velta-1.0.1"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/velta-1.0.2/Velta-1.0.2-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/velta-1.0.2/Velta-1.0.2-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/velta-1.0.2",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/velta-1.0.2"
   },
   "allien": {
     "name": "Allien EQ+",
