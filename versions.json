@@ -358,5 +358,18 @@
     "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/arcov-1.0.1/ARCOV-1.0.1-Windows-Setup.exe",
     "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/arcov-1.0.1",
     "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/arcov-1.0.1"
+  },
+  "astra": {
+    "name": "ASTRA",
+    "version": "1.0.1",
+    "date": "2026-11-13",
+    "notes": {
+      "pt": "- Primeira versão pública: instrumento virtual híbrido com três camadas por som.\n- Cinco motores: Analog, Wavetable, Sampler, Granular e Physical.\n- 300 presets em sete categorias, com busca por nome e tag e presets do usuário.\n- Matriz de modulação de 16 vias, 8 macros, ASTRA ORB, arpejador e sequenciador de 16 passos.\n- Rack de efeitos: drive, EQ, modulação, delay, reverb, compressor, largura e limitador.",
+      "en": "- First public release: a hybrid virtual instrument with three layers per sound.\n- Five engines: Analog, Wavetable, Sampler, Granular and Physical.\n- 300 presets in seven categories, with search by name and tag and user presets.\n- 16-slot modulation matrix, 8 macros, the ASTRA ORB, arpeggiator and 16-step sequencer.\n- Effects rack: drive, EQ, modulation, delay, reverb, compressor, width and limiter."
+    },
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/astra-1.0.1/ASTRA-1.0.1-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/astra-1.0.1/ASTRA-1.0.1-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/astra-1.0.1",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/astra-1.0.1"
   }
 }
