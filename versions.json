@@ -49,16 +49,16 @@
   },
   "brabo73": {
     "name": "BRABO 73",
-    "version": "1.0.3",
-    "date": "2026-11-12",
+    "version": "1.0.5",
+    "date": "2026-11-13",
     "notes": {
-      "pt": "- A ativação e o teste grátis agora são conferidos direto em amira.audio.\n- Mesmo som, mesmos presets e a mesma licença: instale por cima da versão atual.",
-      "en": "- Activation and the free trial are now checked directly at amira.audio.\n- Same sound, same presets and the same license: install over the version you have."
+      "pt": "- Rodapé novo: o logo da Amira Audio no lugar de \"AMIRA LABS 2026 · MADE IN BRAZIL\".\n- Mesmo som, mesmos presets e a mesma licença: instale por cima da versão atual.\n- Instalador do Mac assinado e notarizado pela Apple.",
+      "en": "- New footer: the Amira Audio logo in place of \"AMIRA LABS 2026 · MADE IN BRAZIL\".\n- Same sound, same presets and the same license: install over the version you have.\n- Mac installer signed and notarized by Apple."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/brabo73-1.0.3/BRABO73-1.0.3-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/brabo73-1.0.3/BRABO73-1.0.3-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/brabo73-1.0.3",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/brabo73-1.0.3"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/brabo73-1.0.5/BRABO73-1.0.5-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/brabo73-1.0.5/BRABO73-1.0.5-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/brabo73-1.0.5",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/brabo73-1.0.5"
   },
   "rack7": {
     "name": "Rack7",
