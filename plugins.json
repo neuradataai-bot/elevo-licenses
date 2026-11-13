@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-11-12T00:25:43.973Z",
+  "updated": "2026-11-13T00:23:54.434Z",
   "atri8": {
     "cd256b2403727e7cde23d325e413da34436324aaf5282408814db9a5f767423a": {
       "a": true
@@ -93,5 +93,6 @@
   "robotone": {},
   "allien": {},
   "spaceall": {},
-  "arcov": {}
+  "arcov": {},
+  "astra": {}
 }
