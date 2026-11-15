@@ -374,15 +374,15 @@
   },
   "valvox": {
     "name": "Valvox",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "date": "2026-11-15",
     "notes": {
-      "pt": "- Primeira versão pública: channel strip valvulado para voz e instrumentos.\n- Compressor óptico com célula de luz modelada, antes do pré valvulado.\n- Pré valvulado com realimentação negativa de 40 a 60 dB na chave GAIN.\n- EQ passivo com 11 frequências em graves, médios e agudos.\n- De-esser de 3 a 12 kHz ou limitador, saída com válvula e transformadores, VU com balística real.\n- 22 presets, sobreamostragem de até 4x, A/B e desfazer.",
-      "en": "- First public release: a vacuum tube channel strip for vocals and instruments.\n- Optical compressor with a modelled light cell, ahead of the tube preamp.\n- Tube preamp with 40 to 60 dB of negative feedback on the GAIN switch.\n- Passive EQ with 11 frequencies for lows, mids and highs.\n- De-esser from 3 to 12 kHz or a limiter, tube and transformer output, VU meter with real ballistics.\n- 22 presets, up to 4x oversampling, A/B and undo."
+      "pt": "- Chave POWER no painel: desligada, apaga válvula, VU e lâmpadas e o áudio passa sem processamento; ao ligar, estalo, 2 s de chiado e o som entra em fade-in.\n- Hardware Behavior (menu ≡, ligado por padrão): estalos das chaves no estilo de cada circuito e chiado do pré que sobe com GAIN, INPUT, EQ e saída.\n- Painel novo: aço escovado, knobs pretos com emblema gravado, parafusos de titânio com estrela, LED vermelho na placa da válvula, válvula em 2.200 K e VU iluminado de cima.",
+      "en": "- POWER switch on the panel: off turns the tube, VU and lamps dark and passes the audio unprocessed; switching on gives a pop, 2 s of hiss and a fade-in.\n- Hardware Behavior (≡ menu, on by default): switch clicks voiced for each circuit and preamp hiss that rises with GAIN, INPUT, EQ and output.\n- New panel: brushed steel, black knobs with an engraved emblem, titanium star screws, a red LED on the tube board, a 2,200 K tube glow and a top-lit VU."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/valvox-1.0.0/Valvox-1.0.0-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/valvox-1.0.0/Valvox-1.0.0-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/valvox-1.0.0",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/valvox-1.0.0"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/valvox-1.0.1/Valvox-1.0.1-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/valvox-1.0.1/Valvox-1.0.1-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/valvox-1.0.1",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/valvox-1.0.1"
   }
 }
