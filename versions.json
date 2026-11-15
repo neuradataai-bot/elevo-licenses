@@ -384,5 +384,18 @@
     "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/valvox-1.0.1/Valvox-1.0.1-Windows-Setup.exe",
     "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/valvox-1.0.1",
     "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/valvox-1.0.1"
+  },
+  "t36": {
+    "name": "36T",
+    "version": "1.0.0",
+    "date": "2026-11-16",
+    "notes": {
+      "pt": "- Primeira versão pública: compressor, limitador e gate de dois canais.\n- Detector RMS ou PEAK, joelho duro ou suave, RATIO de 1:1 a ∞:1.\n- Gate com histerese em cada canal, link estéreo e sidechain externo.\n- Ruído analógico, chave +4/−10, modos ORIGINAL e REFINED e POWER com estalos de fonte.\n- 25 presets, sobreamostragem de até 4x, A/B e desfazer.",
+      "en": "- First public release: a dual-channel compressor, limiter and gate.\n- RMS or PEAK detection, hard or soft knee, RATIO from 1:1 to ∞:1.\n- Gate with hysteresis on each channel, stereo link and external sidechain.\n- Analog noise, +4/−10 switch, ORIGINAL and REFINED modes and a POWER switch with power-supply pops.\n- 25 presets, up to 4x oversampling, A/B and undo."
+    },
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/t36-1.0.0/36T-1.0.0-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/t36-1.0.0/36T-1.0.0-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/t36-1.0.0",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/t36-1.0.0"
   }
 }
