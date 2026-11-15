@@ -23,16 +23,16 @@
   },
   "rayo": {
     "name": "RAYO II",
-    "version": "1.0.3",
-    "date": "2026-11-12",
+    "version": "1.0.4",
+    "date": "2026-11-15",
     "notes": {
-      "pt": "- A ativação e o teste grátis agora são conferidos direto em amira.audio.\n- Mesmo som, mesmos presets e a mesma licença: instale por cima da versão atual.",
-      "en": "- Activation and the free trial are now checked directly at amira.audio.\n- Same sound, same presets and the same license: install over the version you have."
+      "pt": "- Funciona sem licença dentro do MODAW STUDIO e do MODAW FREE.\n- Mesmo som, mesmos presets e a mesma licença: instale por cima da versão atual.",
+      "en": "- Runs without a license inside MODAW STUDIO and MODAW FREE.\n- Same sound, same presets and the same license: install over the version you have."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/rayo-1.0.3/RAYO-II-1.0.3-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/rayo-1.0.3/RAYO-II-1.0.3-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/rayo-1.0.3",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/rayo-1.0.3"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/rayo-1.0.4/RAYO-II-1.0.4-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/rayo-1.0.4/RAYO-II-1.0.4-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/rayo-1.0.4",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/rayo-1.0.4"
   },
   "cm600": {
     "name": "CM600",
@@ -166,16 +166,16 @@
   },
   "pulp": {
     "name": "PULP",
-    "version": "1.0.2",
-    "date": "2026-11-12",
+    "version": "1.0.3",
+    "date": "2026-11-15",
     "notes": {
-      "pt": "- A ativação e o teste grátis agora são conferidos direto em amira.audio.\n- Mesmo som, mesmos presets e a mesma licença: instale por cima da versão atual.",
-      "en": "- Activation and the free trial are now checked directly at amira.audio.\n- Same sound, same presets and the same license: install over the version you have."
+      "pt": "- Funciona sem licença dentro do MODAW STUDIO e do MODAW FREE.\n- Mesmo som, mesmos presets e a mesma licença: instale por cima da versão atual.",
+      "en": "- Runs without a license inside MODAW STUDIO and MODAW FREE.\n- Same sound, same presets and the same license: install over the version you have."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/pulp-1.0.2/PULP-1.0.2-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/pulp-1.0.2/PULP-1.0.2-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/pulp-1.0.2",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/pulp-1.0.2"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/pulp-1.0.3/PULP-1.0.3-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/pulp-1.0.3/PULP-1.0.3-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/pulp-1.0.3",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/pulp-1.0.3"
   },
   "solid": {
     "name": "Solid",
@@ -322,16 +322,16 @@
   },
   "abt": {
     "name": "ABT",
-    "version": "1.0.2",
-    "date": "2026-11-12",
+    "version": "1.0.3",
+    "date": "2026-11-15",
     "notes": {
-      "pt": "- A ativação e o teste grátis agora são conferidos direto em amira.audio.\n- Mesmo som, mesmos presets e a mesma licença: instale por cima da versão atual.",
-      "en": "- Activation and the free trial are now checked directly at amira.audio.\n- Same sound, same presets and the same license: install over the version you have."
+      "pt": "- Funciona sem licença dentro do MODAW STUDIO e do MODAW FREE.\n- Mesmo som, mesmos presets e a mesma licença: instale por cima da versão atual.",
+      "en": "- Runs without a license inside MODAW STUDIO and MODAW FREE.\n- Same sound, same presets and the same license: install over the version you have."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/abt-1.0.2/ABT-1.0.2-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/abt-1.0.2/ABT-1.0.2-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/abt-1.0.2",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/abt-1.0.2"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/abt-1.0.3/ABT-1.0.3-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/abt-1.0.3/ABT-1.0.3-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/abt-1.0.3",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/abt-1.0.3"
   },
   "spaceall": {
     "name": "Space All",
