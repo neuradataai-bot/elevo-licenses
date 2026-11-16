@@ -400,15 +400,15 @@
   },
   "sigma7": {
     "name": "SIGMA 7",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "date": "2026-11-16",
     "notes": {
-      "pt": "- Primeira versão pública: reverb digital de estúdio com console de visor LCD.\n- 113 programas em 11 bancos: Halls, Plates, Rooms, Chambers, Ambience, Spaces, os bancos V2 e NonLin.\n- 18 parâmetros de edição, com Delay, VLF, Early Select e as faixas do hardware.\n- 100 registros com nome, 4 favoritos, A/B e desfazer.\n- INPUT de +8 a +24 dBu, TAP para mudo e bypass, roteamento mono ou estéreo.",
-      "en": "- First public release: a studio digital reverb with an LCD console.\n- 113 programs in 11 banks: Halls, Plates, Rooms, Chambers, Ambience, Spaces, the V2 banks and NonLin.\n- 18 edit parameters, with Delay, VLF, Early Select and hardware-style ranges.\n- 100 named registers, 4 favourites, A/B and undo.\n- INPUT from +8 to +24 dBu, TAP for mute and bypass, mono or stereo routing."
+      "pt": "- A roda grande agora funciona: gira e carrega os programas na hora.\n- ESTILO, TAMANHO e MIX escolhidos direto no visor, com a roda, o mouse ou a rodinha.\n- Nova interface em alta qualidade: fundo quase preto, câmera mais próxima, luz e parafusos refeitos.\n- Correção: reabrir a sessão agora soa idêntico.",
+      "en": "- The big wheel now works: turn it and programs load instantly.\n- STYLE, SIZE and MIX picked right on the display, with the wheel, the mouse or the scroll wheel.\n- New high-quality interface: near-black background, closer camera, new lighting and screws.\n- Fix: reopening a session now sounds identical."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/sigma7-1.0.0/SIGMA7-1.0.0-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/sigma7-1.0.0/SIGMA7-1.0.0-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/sigma7-1.0.0",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/sigma7-1.0.0"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/sigma7-1.0.1/SIGMA7-1.0.1-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/sigma7-1.0.1/SIGMA7-1.0.1-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/sigma7-1.0.1",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/sigma7-1.0.1"
   }
 }
