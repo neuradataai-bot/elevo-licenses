@@ -387,16 +387,16 @@
   },
   "t36": {
     "name": "36T",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "date": "2026-11-16",
     "notes": {
-      "pt": "- Primeira versão pública: compressor, limitador e gate de dois canais.\n- Detector RMS ou PEAK, joelho duro ou suave, RATIO de 1:1 a ∞:1.\n- Gate com histerese em cada canal, link estéreo e sidechain externo.\n- Ruído analógico, chave +4/−10, modos ORIGINAL e REFINED e POWER com estalos de fonte.\n- 25 presets, sobreamostragem de até 4x, A/B e desfazer.",
-      "en": "- First public release: a dual-channel compressor, limiter and gate.\n- RMS or PEAK detection, hard or soft knee, RATIO from 1:1 to ∞:1.\n- Gate with hysteresis on each channel, stereo link and external sidechain.\n- Analog noise, +4/−10 switch, ORIGINAL and REFINED modes and a POWER switch with power-supply pops.\n- 25 presets, up to 4x oversampling, A/B and undo."
+      "pt": "- Painel com luz frontal suave: aço, legendas e knobs mais visíveis.\n- Parafusos de cabeça reta, rentes à chapa, com encaixe sextavado maior.\n- Som e parâmetros iguais aos da 1.0.0; sessões e presets continuam compatíveis.",
+      "en": "- Panel lit by a soft front light: steel, legends and knobs are easier to see.\n- Flat-head screws, flush with the panel, with a larger hex socket.\n- Sound and parameters unchanged from 1.0.0; sessions and presets stay compatible."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/t36-1.0.0/36T-1.0.0-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/t36-1.0.0/36T-1.0.0-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/t36-1.0.0",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/t36-1.0.0"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/t36-1.0.1/36T-1.0.1-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/t36-1.0.1/36T-1.0.1-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/t36-1.0.1",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/t36-1.0.1"
   },
   "sigma7": {
     "name": "SIGMA 7",
