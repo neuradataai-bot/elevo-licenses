@@ -475,5 +475,18 @@
     "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/clivora-1.0.0/CLIVORA-1.0.0-Windows-Setup.exe",
     "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/clivora-1.0.0",
     "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/clivora-1.0.0"
+  },
+  "wokal": {
+    "name": "WOKAL",
+    "version": "1.0.0",
+    "date": "2026-11-17",
+    "notes": {
+      "pt": "- Primeira versão pública: a cadeia de voz completa num plug-in só, da voz crua à voz pronta.\n- Nove etapas em série: CLEAN (limpeza neural e gate), TUNE, TONE, DE-ESS, COMP, COLOR, DOUBLE, SPACE e OUTPUT.\n- LISTEN: ouve uns 10 segundos de voz e ajusta ganho, tom, limpeza, EQ, de-esser, compressão e nível, no próprio computador, sem mexer no que você já ajustou.\n- Vistas EASY (um botão por etapa) e DETAIL, TRACK (latência zero para gravar) e MIX (qualidade máxima), bypass no mesmo volume.\n- 36 presets em 9 estilos: Pop, Rap, R&B, Rock, Gospel, Latin, Podcast, Voice-over e Radio.",
+      "en": "- First public release: the whole vocal chain in one plug-in, from raw voice to finished voice.\n- Nine stages in series: CLEAN (neural cleanup and gate), TUNE, TONE, DE-ESS, COMP, COLOR, DOUBLE, SPACE and OUTPUT.\n- LISTEN: hears about 10 seconds of voice and sets gain, key, cleanup, EQ, de-esser, compression and level, on your own computer, without touching what you have already set.\n- EASY (one knob per stage) and DETAIL views, TRACK (zero latency for recording) and MIX (maximum quality), level-matched bypass.\n- 36 presets in 9 styles: Pop, Rap, R&B, Rock, Gospel, Latin, Podcast, Voice-over and Radio."
+    },
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/wokal-1.0.0/WOKAL-1.0.0-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/wokal-1.0.0/WOKAL-1.0.0-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/wokal-1.0.0",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/wokal-1.0.0"
   }
 }
