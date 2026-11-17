@@ -462,5 +462,18 @@
     "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/invora-1.0.0/INVORA-1.0.0-Windows-Setup.exe",
     "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/invora-1.0.0",
     "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/invora-1.0.0"
+  },
+  "clivora": {
+    "name": "CLIVORA",
+    "version": "1.0.0",
+    "date": "2026-11-17",
+    "notes": {
+      "pt": "- Primeira versão pública: clipper de precisão para bateria, bus de mix e antes do limiter da master.\n- DRIVE, CEILING, SHAPE contínuo do hard ao soft, OUTPUT e MIX.\n- Sobreamostragem de 1x a 16x (latência zero em 1x) e teto em true peak.\n- MULTIBAND de três bandas, STEREO LINK, MID/SIDE, DELTA e UNITY GAIN.\n- Forma de onda com os picos cortados, medidor de corte, loudness BS.1770 (I, S, M) e 9 presets.",
+      "en": "- First public release: a precision clipper for drums, the mix bus and the stage before the master limiter.\n- DRIVE, CEILING, a continuous hard-to-soft SHAPE, OUTPUT and MIX.\n- Oversampling from 1x to 16x (zero latency at 1x) and a true-peak ceiling.\n- Three-band MULTIBAND, STEREO LINK, MID/SIDE, DELTA and UNITY GAIN.\n- Waveform with the clipped peaks, clip meter, BS.1770 loudness (I, S, M) and 9 presets."
+    },
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/clivora-1.0.0/CLIVORA-1.0.0-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/clivora-1.0.0/CLIVORA-1.0.0-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/clivora-1.0.0",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/clivora-1.0.0"
   }
 }
