@@ -488,5 +488,18 @@
     "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/wokal-1.0.0/WOKAL-1.0.0-Windows-Setup.exe",
     "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/wokal-1.0.0",
     "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/wokal-1.0.0"
+  },
+  "alina": {
+    "name": "ALINA",
+    "version": "1.0.0",
+    "date": "2026-11-17",
+    "notes": {
+      "pt": "- Primeira versão pública: alinhamento automático de dobras, backing vocals, harmonias e dublagens ao tempo da voz guia.\n- Guia por uma instância Guide ligada ou pelo side-chain, em até oito grupos; um clique em Align All alinha o grupo inteiro.\n- TIGHTNESS, MAX SHIFT, PROTECT, PITCH MATCH (desligado por padrão) e FORMANT, com 7 presets: Natural, Tight, Very Tight, Doubles, Harmonies, Rap Stacks e ADR.\n- Pontos de sincronia arrastáveis, alinhar ou restaurar só um trecho, antes e depois no mesmo volume e Undo.\n- Latência zero e a gravação na DAW nunca é alterada; app para alinhar arquivos e exportar em WAV.",
+      "en": "- First public release: automatic alignment of doubles, backing vocals, harmonies and dubbed lines to the timing of the guide vocal.\n- Guide from a linked Guide instance or the side-chain, in up to eight groups; one click on Align All aligns the whole group.\n- TIGHTNESS, MAX SHIFT, PROTECT, PITCH MATCH (off by default) and FORMANT, with 7 presets: Natural, Tight, Very Tight, Doubles, Harmonies, Rap Stacks and ADR.\n- Draggable sync points, align or restore just a stretch, before and after at the same level, and Undo.\n- Zero latency, and the recording in your DAW is never changed; an app to align files and export them as WAV."
+    },
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/alina-1.0.0/ALINA-1.0.0-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/alina-1.0.0/ALINA-1.0.0-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/alina-1.0.0",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/alina-1.0.0"
   }
 }
