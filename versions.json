@@ -192,16 +192,16 @@
   },
   "veltron": {
     "name": "VELTRON",
-    "version": "1.0.2",
-    "date": "2026-11-12",
+    "version": "1.1.0",
+    "date": "2026-11-17",
     "notes": {
-      "pt": "- A ativação e o teste grátis agora são conferidos direto em amira.audio.\n- Mesmo som, mesmos presets e a mesma licença: instale por cima da versão atual.",
-      "en": "- Activation and the free trial are now checked directly at amira.audio.\n- Same sound, same presets and the same license: install over the version you have."
+      "pt": "- Interface nova, fotorrealista: painel usinado com o logo impresso, knobs de alumínio recartilhado, teclas iluminadas por baixo e VUs com luz interna quente, vinda de cima.\n- Mesmo som, mesmos presets e a mesma licença; as sessões abrem como antes. Instale por cima da versão atual.",
+      "en": "- All-new photoreal interface: machined faceplate with a printed logo, knurled aluminium knobs, back-lit keys and VU meters with a warm light from the top.\n- Same sound, same presets and the same license; your sessions open as before. Install over the version you have."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/veltron-1.0.2/VELTRON-1.0.2-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/veltron-1.0.2/VELTRON-1.0.2-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/veltron-1.0.2",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/veltron-1.0.2"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/veltron-1.1.0/VELTRON-1.1.0-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/veltron-1.1.0/VELTRON-1.1.0-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/veltron-1.1.0",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/veltron-1.1.0"
   },
   "studiochorus": {
     "name": "Studio Chorus",
