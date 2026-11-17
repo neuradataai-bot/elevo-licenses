@@ -423,5 +423,18 @@
     "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/dravo-1.1.0/DRAVO-1.1.0-Windows-Setup.exe",
     "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/dravo-1.1.0",
     "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/dravo-1.1.0"
+  },
+  "torvo": {
+    "name": "Torvo Core",
+    "version": "1.0.0",
+    "date": "2026-11-17",
+    "notes": {
+      "pt": "- Primeira versão pública: compressor VCA analógico com oito curvas de ratio, do 2:1 suave ao CRUSH brick wall.\n- Modos 2ND e 3RD de harmônicos, passa-altas de 3.ª ordem no áudio e HP, PRES e LINK no detector.\n- Modo SLAM, MIX para compressão paralela, HEADROOM, sidechain externo e sobreamostragem de até 4x.\n- Painel de rack fotorrealista com knobs, botões e chave POWER animados e medidor de 16 LEDs; 25 presets.",
+      "en": "- First public release: an analog VCA compressor with eight ratio curves, from a gentle 2:1 to a brick-wall CRUSH.\n- 2ND and 3RD harmonic modes, a 3rd-order audio high-pass and detector HP, PRES and LINK.\n- SLAM all-in mode, MIX for parallel compression, HEADROOM, external sidechain and up to 4x oversampling.\n- Photoreal rack panel with animated knobs, buttons, POWER switch and a 16-step meter; 25 presets."
+    },
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/torvo-1.0.0/TorvoCore-1.0.0-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/torvo-1.0.0/TorvoCore-1.0.0-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/torvo-1.0.0",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/torvo-1.0.0"
   }
 }
