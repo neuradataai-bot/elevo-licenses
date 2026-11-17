@@ -153,16 +153,16 @@
   },
   "reliq": {
     "name": "RELIQ",
-    "version": "1.0.2",
-    "date": "2026-11-12",
+    "version": "1.1.0",
+    "date": "2026-11-17",
     "notes": {
-      "pt": "- A ativação e o teste grátis agora são conferidos direto em amira.audio.\n- Mesmo som, mesmos presets e a mesma licença: instale por cima da versão atual.",
-      "en": "- Activation and the free trial are now checked directly at amira.audio.\n- Same sound, same presets and the same license: install over the version you have."
+      "pt": "- Visual novo: console renderizado com ponte de medidores em vidro preto, toca-discos, válvulas com olho mágico e gravador de rolo animados.\n- Logo novo.\n- Anéis acesos mostram os módulos ligados, e o estroboscópio do prato mostra o wow ao vivo.\n- Mesmo som, mesmos presets e a mesma licença: instale por cima da versão atual.",
+      "en": "- New look: a rendered console with a black-glass meter bridge, an animated turntable, tubes with a magic eye and a reel-to-reel deck.\n- New logo.\n- Lit rings show which modules are on, and the platter strobe shows the wow live.\n- Same sound, same presets and the same license: install over the version you have."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/reliq-1.0.2/RELIQ-1.0.2-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/reliq-1.0.2/RELIQ-1.0.2-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/reliq-1.0.2",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/reliq-1.0.2"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/reliq-1.1.0/RELIQ-1.1.0-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/reliq-1.1.0/RELIQ-1.1.0-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/reliq-1.1.0",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/reliq-1.1.0"
   },
   "pulp": {
     "name": "PULP",
