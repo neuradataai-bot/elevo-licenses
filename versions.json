@@ -410,5 +410,18 @@
     "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/sigma7-1.0.1/SIGMA7-1.0.1-Windows-Setup.exe",
     "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/sigma7-1.0.1",
     "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/sigma7-1.0.1"
+  },
+  "dravo": {
+    "name": "DRAVO",
+    "version": "1.1.0",
+    "date": "2026-11-17",
+    "notes": {
+      "pt": "- Instrumento de bateria com dois kits gravados com vários microfones: STUDIO CLASSIC (13 microfones) e MODERN POWER (15 microfones, baixado de dentro do DRAVO).\n- Vista 3D com ponto de batida, pontas de baqueta e batedores, e sete salas que mostram a bateria montada em cada uma.\n- 102 grooves originais em 18 estilos, montador de música, editor simples e TAP TO FIND.\n- Toque ao vivo com controlador MIDI ou com o teclado do computador (KEYS) e arraste o MIDI para a DAW.\n- MY KITS: monte a sua bateria com 3 a 10 golpes de cada peça, a partir dos seus próprios arquivos.",
+      "en": "- Drum instrument with two multi-mic recorded kits: STUDIO CLASSIC (13 microphones) and MODERN POWER (15 microphones, downloaded from inside DRAVO).\n- 3D view with strike point, stick tips and beaters, and seven rooms that show the kit set up in each one.\n- 102 original groove sets in 18 styles, song builder, simple editor and TAP TO FIND.\n- Play live with a MIDI controller or your computer keyboard (KEYS) and drag the MIDI into your DAW.\n- MY KITS: build your own kit with 3 to 10 hits of each piece from your own files."
+    },
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/dravo-1.1.0/DRAVO-1.1.0-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/dravo-1.1.0/DRAVO-1.1.0-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/dravo-1.1.0",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/dravo-1.1.0"
   }
 }
