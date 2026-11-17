@@ -449,5 +449,18 @@
     "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/bravone4-1.0.0/AMIRA-BRAVON-E4-1.0.0-Windows-Setup.exe",
     "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/bravone4-1.0.0",
     "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/bravone4-1.0.0"
+  },
+  "invora": {
+    "name": "INVORA",
+    "version": "1.0.0",
+    "date": "2026-11-17",
+    "notes": {
+      "pt": "- Primeira versão pública: limiter brickwall de true peak para masterização.\n- LIMIT LEVEL, INPUT GAIN e OUTPUT GAIN, com look-ahead e release adaptativo ao programa.\n- True peak, sobreamostragem de 1x a 16x, stereo link e release AUTO, FAST ou SLOW.\n- Medidores de entrada, saída e redução de ganho, loudness BS.1770 (I, S, M) e monitor de ganho unitário.\n- 11 presets, automação de todos os parâmetros e janela de 50 a 200 %.",
+      "en": "- First public release: a true-peak brickwall limiter for mastering.\n- LIMIT LEVEL, INPUT GAIN and OUTPUT GAIN, with look-ahead and program-dependent release.\n- True peak, oversampling from 1x to 16x, stereo link and AUTO, FAST or SLOW release.\n- Input, output and gain-reduction meters, BS.1770 loudness (I, S, M) and unity-gain monitoring.\n- 11 presets, automation of every parameter and a window that scales from 50 to 200 %."
+    },
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/invora-1.0.0/INVORA-1.0.0-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/invora-1.0.0/INVORA-1.0.0-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/invora-1.0.0",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/invora-1.0.0"
   }
 }
