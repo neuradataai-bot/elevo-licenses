@@ -400,16 +400,16 @@
   },
   "sigma7": {
     "name": "SIGMA 7",
-    "version": "1.0.1",
-    "date": "2026-11-16",
+    "version": "1.0.2",
+    "date": "2026-11-17",
     "notes": {
-      "pt": "- A roda grande agora funciona: gira e carrega os programas na hora.\n- ESTILO, TAMANHO e MIX escolhidos direto no visor, com a roda, o mouse ou a rodinha.\n- Nova interface em alta qualidade: fundo quase preto, câmera mais próxima, luz e parafusos refeitos.\n- Correção: reabrir a sessão agora soa idêntico.",
-      "en": "- The big wheel now works: turn it and programs load instantly.\n- STYLE, SIZE and MIX picked right on the display, with the wheel, the mouse or the scroll wheel.\n- New high-quality interface: near-black background, closer camera, new lighting and screws.\n- Fix: reopening a session now sounds identical."
+      "pt": "- Correção: o SIGMA 7 não derruba mais o programa ao fechar o DAW.",
+      "en": "- Fix: SIGMA 7 no longer crashes the host when the DAW is closed."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/sigma7-1.0.1/SIGMA7-1.0.1-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/sigma7-1.0.1/SIGMA7-1.0.1-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/sigma7-1.0.1",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/sigma7-1.0.1"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/sigma7-1.0.2/SIGMA7-1.0.2-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/sigma7-1.0.2/SIGMA7-1.0.2-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/sigma7-1.0.2",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/sigma7-1.0.2"
   },
   "dravo": {
     "name": "DRAVO",
