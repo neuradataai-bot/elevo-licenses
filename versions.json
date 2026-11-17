@@ -101,16 +101,16 @@
   },
   "vera": {
     "name": "VERA",
-    "version": "2.0.0",
-    "date": "2026-11-14",
+    "version": "2.0.1",
+    "date": "2026-11-17",
     "notes": {
-      "pt": "- Novo fluxo em três passos: Analisar, Afinar e Refinar.\n- Tom e escala sugeridos pelo VERA, com o grau de certeza. Você confirma com uma tecla. No LIVE, o tom é achado ouvindo a voz.\n- Quatro estilos de um clique: NATURAL, POLISHED, PERFECT e HARD.\n- Novo botão GLIDE: o tempo da passagem de uma nota para a outra.\n- Editor por nota: afinação fina, correção, drift, vibrato, glide e formante de cada nota. Arraste as pontas para mudar início e duração.\n- UNDO (Cmd+Z), RESET TO AI e ORIGINAL para comparar com a gravação, que nunca é alterada.\n- Detecção de notas mais precisa: separa sílabas e degraus e ignora os deslizes ao achar o centro da nota.\n- Painel novo, com o mesmo visual grafite e dourado.\n- Toda a IA roda no seu computador: não precisa de internet para afinar e nenhum áudio é enviado.\n- Sessões da versão anterior abrem normalmente.",
-      "en": "- New three-step workflow: Analyze, Tune and Refine.\n- VERA suggests the key and scale and shows how sure it is. You confirm with one key. In LIVE, the key is found by listening to the voice.\n- Four one-click styles: NATURAL, POLISHED, PERFECT and HARD.\n- New GLIDE knob: how long the voice takes to travel from one note to the next.\n- Per-note editor: fine pitch, correction, drift, vibrato, glide and formant of each note. Drag the ends to change start and length.\n- UNDO (Cmd+Z), RESET TO AI and ORIGINAL to compare with the recording, which is never changed.\n- More precise note detection: splits syllables and steps, and ignores slides when finding the centre of a note.\n- New panel, same graphite and gold look.\n- All the AI runs on your computer: no internet needed to tune and no audio is sent anywhere.\n- Sessions from the previous version open as before."
+      "pt": "- Barra de rolagem embaixo do editor de notas: mostra a música inteira, com o trecho visível destacado. Arraste para andar pela música ou clique num ponto para ir até ele.\n- Lupas + e − no topo do editor para aproximar e afastar.\n- O resto do VERA continua igual.",
+      "en": "- Scroll bar under the note editor: it shows the whole song with the visible stretch highlighted. Drag it to move through the song, or click a spot to jump there.\n- Zoom in and zoom out keys at the top of the editor.\n- Everything else in VERA stays the same."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/vera-2.0.0/VERA-2.0.0-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/vera-2.0.0/VERA-2.0.0-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vera-2.0.0",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vera-2.0.0"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/vera-2.0.1/VERA-2.0.1-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/vera-2.0.1/VERA-2.0.1-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vera-2.0.1",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vera-2.0.1"
   },
   "vasto": {
     "name": "VASTO",
