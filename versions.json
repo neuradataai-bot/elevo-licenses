@@ -439,16 +439,16 @@
   },
   "bravone4": {
     "name": "AMIRA BRAVON E4",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "date": "2026-11-17",
     "notes": {
-      "pt": "- Primeira versão pública: canal completo de console analógico.\n- Pré de linha e microfone com transformador, inversão de fase e PAD.\n- Filtros passa-altas e passa-baixas, compressor VCA e expansor/gate.\n- EQ de quatro bandas em duas versões, BRN e BLK, e roteamento como na console.\n- Fader, medidores de LED, 26 presets, sobreamostragem de até 4x, A/B e desfazer.",
-      "en": "- First public release: a complete analog console channel.\n- Line and mic preamp with transformer, phase flip and PAD.\n- High-pass and low-pass filters, VCA compressor and expander/gate.\n- Four-band EQ in two versions, BRN and BLK, and console-style routing.\n- Fader, LED meters, 26 presets, up to 4x oversampling, A/B and undo."
+      "pt": "- Knobs e fader renderizados na mesma luz do painel, com a sombra inteira.\n- Visor do GROUP apagado quando não há grupo.",
+      "en": "- Knobs and fader rendered in the same light as the panel, with their full shadow.\n- GROUP display stays dark when no group is set."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/bravone4-1.0.0/AMIRA-BRAVON-E4-1.0.0-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/bravone4-1.0.0/AMIRA-BRAVON-E4-1.0.0-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/bravone4-1.0.0",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/bravone4-1.0.0"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/bravone4-1.0.1/AMIRA-BRAVON-E4-1.0.1-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/bravone4-1.0.1/AMIRA-BRAVON-E4-1.0.1-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/bravone4-1.0.1",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/bravone4-1.0.1"
   },
   "invora": {
     "name": "INVORA",
