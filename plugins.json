@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-11-18T22:42:23.921Z",
+  "updated": "2026-11-20T00:33:40.349Z",
   "atri8": {
     "cd256b2403727e7cde23d325e413da34436324aaf5282408814db9a5f767423a": {
       "a": true
@@ -98,7 +98,11 @@
   "velta": {},
   "graziaz": {},
   "echoorbit": {},
-  "vokra": {},
+  "vokra": {
+    "39c7d2cd833b04c73af76b6d8f0ce851e0becfe814620d5bbf89eb1c8bc06194": {
+      "a": true
+    }
+  },
   "abt": {},
   "otax": {},
   "robotone": {},
