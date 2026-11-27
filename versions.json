@@ -101,16 +101,16 @@
   },
   "vera": {
     "name": "VERA",
-    "version": "2.0.1",
-    "date": "2026-11-17",
+    "version": "2.0.2",
+    "date": "2026-11-28",
     "notes": {
-      "pt": "- Barra de rolagem embaixo do editor de notas: mostra a música inteira, com o trecho visível destacado. Arraste para andar pela música ou clique num ponto para ir até ele.\n- Lupas + e − no topo do editor para aproximar e afastar.\n- O resto do VERA continua igual.",
-      "en": "- Scroll bar under the note editor: it shows the whole song with the visible stretch highlighted. Drag it to move through the song, or click a spot to jump there.\n- Zoom in and zoom out keys at the top of the editor.\n- Everything else in VERA stays the same."
+      "pt": "- Nova tecla CAPTURE no STUDIO: ligada, o VERA ouve o que ainda não ouviu enquanto a DAW toca; desligada, não capta nada.\n- Tocar de novo um trecho já afinado não capta nem refaz mais nada: as notas e todas as edições à mão continuam exatamente como estavam.\n- Tocar uma parte nova acrescenta notas só nela, sem mexer no que já foi feito.\n- RE-LISTEN liga a captura sozinho.",
+      "en": "- New CAPTURE key in STUDIO: on, VERA listens to what it has not heard yet while the DAW plays; off, it captures nothing.\n- Playing a part that is already tuned no longer captures it or redoes anything: notes and every hand edit stay exactly as they were.\n- Playing a new part adds notes only there, without touching what is done.\n- RE-LISTEN turns capture on by itself."
     },
-    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/vera-2.0.1/VERA-2.0.1-Mac.pkg",
-    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/vera-2.0.1/VERA-2.0.1-Windows-Setup.exe",
-    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vera-2.0.1",
-    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vera-2.0.1"
+    "mac": "https://github.com/neuradataai-bot/amira-plugins/releases/download/vera-2.0.2/VERA-2.0.2-Mac.pkg",
+    "win": "https://github.com/neuradataai-bot/amira-plugins/releases/download/vera-2.0.2/VERA-2.0.2-Windows-Setup.exe",
+    "page": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vera-2.0.2",
+    "url": "https://github.com/neuradataai-bot/amira-plugins/releases/tag/vera-2.0.2"
   },
   "vasto": {
     "name": "VASTO",
