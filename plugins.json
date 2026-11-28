@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-11-28T17:37:05.696Z",
+  "updated": "2026-11-28T17:37:10.258Z",
   "atri8": {
     "cd256b2403727e7cde23d325e413da34436324aaf5282408814db9a5f767423a": {
       "a": true
@@ -182,8 +182,16 @@
       "a": true
     }
   },
-  "sigbeat": {},
-  "sigearth": {},
+  "sigbeat": {
+    "678b6251846be49b865bbf466867549465a5f281cef712f27a8b8e0568f82ac2": {
+      "a": true
+    }
+  },
+  "sigearth": {
+    "8204e02a0f8756847905634e288a252ca5357dd3ebc89aef61ba2b80a9d079e5": {
+      "a": true
+    }
+  },
   "sigclave": {},
   "siggroove": {},
   "sigdisco": {},
