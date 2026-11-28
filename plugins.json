@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-11-28T17:37:01.090Z",
+  "updated": "2026-11-28T17:37:05.696Z",
   "atri8": {
     "cd256b2403727e7cde23d325e413da34436324aaf5282408814db9a5f767423a": {
       "a": true
@@ -177,7 +177,11 @@
       "a": true
     }
   },
-  "sigcrown": {},
+  "sigcrown": {
+    "68f7ce9d8e512a5e1ab8f67b99f9e5792cda55d018a41265d0db4882b3fa6e15": {
+      "a": true
+    }
+  },
   "sigbeat": {},
   "sigearth": {},
   "sigclave": {},
